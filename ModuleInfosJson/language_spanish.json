@@ -1,6 +1,6 @@
 {
   "title":			"language spanish",
-  "type":            "template",
+  "type":       "language",
   "vendor":			"language_spanish",
   "is_free":   "yes",
   "is_core":    "no",
