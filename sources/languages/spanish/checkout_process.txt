@@ -1,0 +1,40 @@
+email_text_subject = Procesar pedido
+email_text_order_intro = Hola,
+Encuentre los elementos relacionados con su pedido en {{store_name}}
+Le agradecemos su confianza y hacemos todo lo posible para tratar el envío de su pedido.
+Número de orden :
+email_text_invoice_url = Pedido específico:
+email_text_date_ordered = Fecha del pedido:
+email_text_products = Productos
+email_text_subtotal = Subtotal:
+email_text_tax = Impuestos:
+email_text_shipping = Gastos de envío:
+email_text_total = Total:
+email_text_delivery_address = Dirección de entrega
+email_text_billing_address = Dirección de facturación
+email_text_payment_method = Forma de pago:
+entry_text_order_number = Número de pedido:
+
+email_separator = ------------------------------------------------ ------
+text_email_via = por
+
+email_text_footer = Su pedido se está preparando y se lo enviaremos pronto. Imprima este correo electrónico certificando que tiene que tomar bien el pedido en {{store_name}} o para cualquier correspondencia posterior. <br /> <br /> Reciba, querido cliente, nuestros sinceros saludos. <br />
+saludos, <br /> <strong> {{store_name}} Equipo </strong> <br />
+<p> {{store_name_address}} <br />
+
+
+email_text_subject_stock = Alerta de stock del producto en {{store_name}}
+
+email_reorder_level_text_stock = Hola, '. "\n\n". 'Recibió un correo electrónico de advertencia sobre su stock de advertencia (configuración general) para este producto. Este stock de advertencia es el stock alrt donde se alcanza uno o varios procesos. '. "\n". 'Existen las diferentes características del producto:'. "\n". '
+email_text_stock = Hola, '. "\n\n". 'Recibirá una advertencia sobre el stock agotado de uno de sus productos. Su producto no está disponible en su tienda. Sin embargo, puede reactivarlo sin modificar su stock. El botón Agregar será reemplazado por el siguiente botón agotado. '. "\n". 'Hay características de los productos fuera de stock:'. "\n". '
+email_text_subject_alert_stock = Alerta de stock en producto específico en {{store_name}}
+email_reorder_level_text_alert_stock = Hola, '. "\n\n". 'Recibirá una advertencia sobre el stock de alerta (definido en el producto) con respecto a un producto. Su producto está disponible en su tienda. '. "\ n". 'Hay características de los productos fuera de stock:'. "\n". '
+email_text_product_alert_stock = Stock en este producto:
+
+
+email_text_id_product = Identificación del producto:
+email_text_model = Modelo:
+email_text_products_name = Nombre del producto:
+email_text_product_url = URL del producto:
+email_text_product_stock = Stock de productos nuevos:
+email_text_date_alert = Fecha de alerta

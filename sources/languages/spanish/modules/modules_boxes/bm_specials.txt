@@ -1,0 +1,9 @@
+module_boxes_specials_title = Ofertas
+module_boxes_specials_description = Mostrar Ofertas
+module_boxes_specials_box_title = Ofertas
+
+module_boxes_specials_all_specials = All specials
+
+text_flash_discount = Flash Discount
+
+button_detail = Details

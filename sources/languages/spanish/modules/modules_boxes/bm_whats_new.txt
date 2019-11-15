@@ -1,0 +1,9 @@
+module_boxes_whats_new_title = Lo más reciente
+module_boxes_whats_new_description = Mostrar los productos más recientes
+
+module_boxes_whats_new_box_title = Lo más reciente
+module_boxes_new_products_all_products = All news
+
+text_flash_discount = Flash Discount
+
+button_detail = details

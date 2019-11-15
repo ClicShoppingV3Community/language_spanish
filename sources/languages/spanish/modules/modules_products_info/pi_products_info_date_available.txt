@@ -1,0 +1,5 @@
+
+module_products_info_date_available = ¿Desea mostrar la fecha del producto disponible?
+  module_products_info_date_available_description = Mostrar la fecha del producto disponible
+
+  text_date_available = <p style = "color: #ff0000;"> <strong> Este producto estará disponible el {{date}}. <br /> Puede reservarlo ahora </strong> </ style>

@@ -1,0 +1,44 @@
+ module_checkout_success_thank_you_title = ¿Desea habilitar este módulo? ¿Mensaje de agradecimiento?
+ module_checkout_success_thank_you_description = Mostrar mensaje de agradecimiento?
+
+ module_checkout_success_text_thanks_for_shopping = Gracias por su confianza y por hacer sus compras en {{store_name}}. <br /> ¡Esperamos verlo pronto!
+ module_checkout_success_text_success = <strong> Su pedido se ha tenido en cuenta con éxito. Adjunto encontrará información adicional </strong>
+
+module_checkout_success_text_order_history = Historial de pedidos
+module_checkout_success_text_contact = Contáctenos
+module_checkout_success_text_account = Mi cuenta
+
+module_checkout_success_text_see_orders =
+<p class = "blockquote">
+  <h3> su pedido </h3>
+  <br /> <br />
+  <li> puede acceder a su cuenta a través de la página {{my_account}}. </li>
+  <li> puede acceder a su historial de pedidos a través de la página <strong> {{account_history}} </strong>. <br /> Puede imprimir su pedido o factura verificando los detalles de su pedido. </li>
+  <li> <strong> si pagó con cheque </strong>, le pedimos que envíe una copia de su orden de compra o el correo electrónico de confirmación que recibió. Una vez recibido, procesaremos su solicitud.
+  <br /> Dirección Si pagó con cheque {{store_name}}: {{store_name_address}} </li>
+</p>
+
+module_checkout_success_text_contact_store_owner =
+<p class = "blockquote">
+  <h3> recibe tu paquete </h3>
+  <br /> <br />
+  <li> para evitar futuros litigios, le pedimos que verifique el contenido de su paquete en presencia del repartidor y que acepte en cualquier circunstancia un paquete en mal estado, restaurado, rodeado de adhesivo, demasiado ligero o que se hubiera abierto durante el tránsito. sin verificar primero el contenido. </li>
+  <li> en caso de que su paquete esté rodeado por una película negra, le pedimos que retire la película en presencia del repartidor para verificar efectivamente el estado de su paquete antes de aceptar. </li>
+  <li> para cualquier otra información, consulte nuestras condiciones generales sobre el pedido de entrega </li>
+</p>
+  <div class = "hr"> </div>
+<p class = "blockquote">
+  <h3> Cómo contactarnos </h3>
+  <br /> <br />
+  <li> si está haciendo un comando: edite su pedido y haga clic en Soporte. {{account_history}} </li>
+  <li> si se trata de una solicitud o información específica, complete este formulario: {{contact}} </li>
+</p>
+
+module_checkout_success_create_account_success =
+<p class = "blockquote">
+<h3> Su pedido </h3>
+<br /> <br />
+Ha elegido pagar creando una cuenta de invitado, no puede acceder a su historial de cuenta. <br /> Solo el correo electrónico le permitirá informar la situación de su pedido. <br /> <br />
+<li> <strong> si pagó con cheque </strong>, le pedimos que nos envíe una copia de su orden de compra o el correo electrónico de confirmación que ha recibido. Una vez recibido, procesaremos su solicitud.
+<br /> <br /> Dirección de {{store_name}}. : {{store_name_address}} </li> <br /> <br />
+</p>

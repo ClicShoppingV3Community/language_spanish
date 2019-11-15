@@ -1,0 +1,7 @@
+module_create_account_introduction_title = ¿Desea mostrar una introducción para la creación de la cuenta?
+module_create_account_introduction_description = Mostrar una introducción para la creación de la cuenta
+
+module_create_account_introduction_text_origin_login = ¡Crear una cuenta es muy simple! <br /> <br /> Toda la información que proporcione permanecerá estrictamente privada y obviamente reservada. En ningún momento se divulgará su información a terceros o para acciones o declaraciones que no sean comerciales {{store_name}} y usted lo ha autorizado. Toda esta información se utiliza para {{store_name}} que lo siguen y para servirle mejor ... <br /> <br /> Puede ver, actualizar o eliminar en cualquier momento la información que ha proporcionado. Solo necesita identificarse en nuestro sitio web y hacer clic en el enlace "Mi cuenta". Usted en cualquier momento y mantiene el control total sobre la información que nos ha proporcionado ... </ font> <br /> <br /> {{store_name}} respeta los estatutos existentes Información y libertad.
+module_create_account_introduction_text_b2b = <span style = "text-decoration: underline;"> Nota </span>: Para abrir una cuenta de cliente profesional, haga clic en el botón
+
+button_continue = Continuar

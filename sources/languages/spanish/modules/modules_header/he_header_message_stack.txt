@@ -1,0 +1,2 @@
+module_header_message_stack_title = ¿Desea habilitar el mensaje de error / información del módulo?
+ module_header_message_stack_description = Mostrar un error o una información en la Tienda para ayudar al cliente

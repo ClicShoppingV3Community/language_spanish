@@ -1,0 +1,5 @@
+modules_footer_suffix_copyright_title = ¿Desea mostrar los derechos de autor de pie de página?
+modules_footer_suffix_copyright_description = Agregar un copyright en el pie de página de la tienda
+modules_footer_suffix_trademark_text = Registrado® y Trademark ™ por <a href="https://www.clicshopping.org" target="_blank" rel="noreferrer"> ClicShopping ™ </a> - Copyright © Juin 2010 -
+
+modules_footer_suffix_copyright_text = <br /> Todos los derechos reservados en el sitio web - Copyright ©

@@ -1,0 +1,5 @@
+
+module_checkout_confirmation_order_total_title = ¿Desea mostrar los detalles totales del pedido?
+module_checkout_confirmation_order_total_description = Mostrar los detalles totales del pedido
+
+module_checkout_confirmation_order_total_heading_details = Detalles

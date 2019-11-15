@@ -1,0 +1,2 @@
+module_footer_page_manager_title = ¿Desea utilizar la página de información en el pie de página (solo el cuadro principal)?
+module_footer_page_manager_description = Agregar la página de información en el pie de página del catálogo

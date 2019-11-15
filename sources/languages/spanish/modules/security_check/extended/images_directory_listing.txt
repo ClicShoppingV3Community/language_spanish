@@ -1,0 +1,3 @@
+module_security_check_extended_images_directory_listing_title = directorio de imágenes
+images_directory_listing = sources / images /
+module_security_check_extended_images_directory_listing_http200 = El directorio sources / images / es accesible y / o navegable, por favor inserte los elementos correctos en su servidor web

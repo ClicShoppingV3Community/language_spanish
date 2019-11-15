@@ -1,0 +1,21 @@
+module_account_customers_history_title = ¿Desea mostrar el historial de pedidos?
+module_account_customers_history_description = Mostrar historial de pedidos
+
+module_account_customers_history_heading_title = Historial de pedidos
+module_account_customers_history_heading_description = Siga el desarrollo de su pedido y vea su historial.
+
+module_account_customers_history_order_number = Número de pedido / factura:
+module_account_customers_history_order_status = Estado:
+module_account_customers_history_order_date = Fecha del pedido:
+module_account_customers_history_order_shipped_to = Enviado a:
+module_account_customers_history__order_billed_to = Facturado a:
+module_account_customers_history_order_products = Productos:
+module_account_customers_history_order_cost = Cantidad total:
+module_account_customers_history_order_order = Ver pedido
+
+module_account_customers_history_text_no_purchases = Todavía no ha realizado ninguna compra o su pedido se está procesando.
+
+button_view = Ver
+button_back = Atrás
+
+s

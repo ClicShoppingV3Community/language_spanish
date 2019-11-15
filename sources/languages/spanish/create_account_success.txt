@@ -1,0 +1,4 @@
+
+navbar_title_1 = Crear una Cuenta
+navbar_title_2 = Éxito
+heading_title = ¡Su cuenta ha sido creada!

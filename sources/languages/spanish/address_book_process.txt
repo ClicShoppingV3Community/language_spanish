@@ -1,0 +1,36 @@
+navbar_title_1 = Mi Cuenta
+navbar_title_2 = Mis direcciones
+
+heading_title = Gestión de direcciones
+
+navbar_title_add_entry = Nueva Dirección
+navbar_title_modify_entry = Modificar dirección
+navbar_title_delete_entry = Eliminar Dirección
+
+heading_title_add_entry = Nueva Dirección
+heading_title_modify_entry = Modificar Dirección
+heading_title_delete_entry = Dirección del seminario
+
+delete_address_title = Eliminar Dirección
+delete_address_description = ¿Está seguro de que quiere eliminar la dirección seleccionada?
+
+new_address_title = Nueva Dirección
+
+selected_address = Dirección Seleccionada
+set_as_primary = Dirección Principal.
+
+success_address_book_entry_deleted = La dirección se ha eliminado correctamente.
+success_address_book_entry_updated = La dirección se ha actualizado correctamente.
+
+warning_primary_address_deletion = La dirección principal no se puede eliminar. Seleccione otra dirección como la principal e inténtelo de nuevo.
+
+error_address_book_entry = Se ha detectado un error, verifique su información.
+error_nonexisting_address_book_entry = No existe la dirección.
+error_address_book_full = Ha llegado al límite de direcciones permitidas. Eliminar una dirección que no use para poder agregar una nueva.
+error_address_book_no_add = No tiene autorización para agregar una nueva dirección en su cuaderno personal. No dude en contactarnos para recibir más información sobre esta imposibilidad.
+error_address_book_no_modify_default = No tiene autorización para modificar la dirección principal de su cuaderno personal. No dude en contactarnos para recibir más información sobre esta imposibilidad.
+
+button_delete = Eliminar
+button_back = Atrás
+button_update = Actualizar
+button_continue = Continuar

@@ -1,0 +1,2 @@
+module_order_total_subtotal_title = Base Imponible
+module_order_total_subtotal_description = Base Imponible del Pedido

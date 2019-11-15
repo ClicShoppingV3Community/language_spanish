@@ -1,0 +1,9 @@
+
+navbar_title_1 = Realizar pedido
+navbar_title_2 = Forma de pago
+
+heading_title_Payment = Información de Pago
+
+text_conditions_description = Por favor, acepte las condiciones de pago
+text_conditions_confirm = Confirme su acuerdo de condiciones de pago
+entry_discount_coupon = Cupón

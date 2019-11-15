@@ -1,0 +1,4 @@
+navbar_title = Envíos y Devoluciones
+heading_title = Envíos y Devoluciones
+
+text_information = Ponga aquí información sobre Envíos y Devoluciones

@@ -1,0 +1,6 @@
+module_advanced_search_manufacturers_title = ¿Desea mostrar un campo de búsqueda del fabricante?
+module_advanced_search_manufacturers_description = Mostrar un campo de búsqueda que permita al cliente insertar criterios
+
+modules_advanced_search_manufacturers_entry_manufacturers = Fabricantes:
+modules_advanced_search_manufacturers_text_all_manufacturers = Todos los fabricantes
+text_all_manufacturers = Todos los fabricantes

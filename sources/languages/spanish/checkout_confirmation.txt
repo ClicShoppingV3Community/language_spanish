@@ -1,0 +1,4 @@
+navbar_title_1 = Realizar Pedido
+navbar_title_1 = Confirmación
+
+heading_title_Confirmation = ¡Estoy preparado para Comprar!

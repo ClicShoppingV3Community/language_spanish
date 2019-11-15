@@ -1,0 +1,12 @@
+navbar_title = Comentarios
+navbar_title_1 = Escribir
+
+heading_title_reviews = ¿Quieres dejar un comentario?
+
+email_subject_customer = Tu comentario en {{store_name}}
+email_text_customer = Hola, <br /> <br /> Gracias por dejarnos tu comentario. Comprobaremos y valido. Tenga en cuenta que todos los comentarios que no respondan en nuestra tabla de ética no serán validados. <br /> <br />. Un saludo, Atención al cliente.
+
+email_subject = Nuevo comentario de un cliente en {{store_name}}
+email_text = Un cliente ha insertado un nuevo comentario sobre un producto. Puede consultar a su administración para validar o no este comentario
+
+message_customer = Gracias, su comentario ha sido tomado y en línea pronto si cumple con nuestros estatutos éticos

@@ -1,0 +1,7 @@
+
+navbar title_1 = Mi cuenta
+navbar title_2 = Suscripción a Boletines
+
+heading_title = Suscripción a Boletines
+
+success_newsletter_updated = Sus suscripciones se han actualizado correctamente.

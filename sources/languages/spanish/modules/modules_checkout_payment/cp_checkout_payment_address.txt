@@ -1,0 +1,9 @@
+
+module_checkout_payment_address_title = ¿Desea mostrar la dirección de facturación?
+module_checkout_payment_address_description = Mostrar la dirección de facturación
+module_checkout_payment_address_title_payment_address = Dirección de facturación
+module_checkout_payment_address_text_choose_payment_destination = Seleccione el método de pago preferido para usar en este pedido.
+
+module_checkout_payment_address_button_change_address = Cambiar su dirección
+button_modify = Modificar
+

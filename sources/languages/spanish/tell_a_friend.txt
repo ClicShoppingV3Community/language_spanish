@@ -1,0 +1,28 @@
+navbar_title = Enviar a un Amigo
+heading_title_friends = Enviar a un Amigo
+
+heading_title_error = Error decirle a un amigo sobre
+
+copy_antispam = Copiar código antispam
+
+
+form_title_customer_details = Tus Datos
+form_title_friend_details = Los Datos de tu Amigo
+form_title_friend_message = Tu Mensaje
+
+text_email_successful_sent = Tu correo electrónico sobre <strong>{{products_name}}</strong> ha sido enviado con éxito a <strong>{{products_name}} {{to_name}}</strong>.
+
+text_email_subject = Tu amigo %s te quiere recomendar "%s"
+text_email_intro = ¡Hola {{to_name}}!' . "\n\n" . '
+Tu amigo {{from_name}}, ha pensado que estarías interesado en {{products_name}} de {{store_name}}.
+text_email_link = Para ver el producto usa el siguiente enlace:' . "\n\n" . '{{url_product}}
+
+
+
+error_to_name = Error: La dirección de su amigo no puede estar vacia.
+error_from_name = Error: La dirección de su amigo debe ser válida.
+error_from_address = Error: Su nombre no debe estar vacio.
+error_invalid_product = Estos productos no están disponibles. Inténtalo de nuevo.
+ entry_antispam = How ma
+
+error_action_recorder = Error: Ya ha sido enviado un Correo electrónico. Por favor, inténtelo otra vez en %s minutos.

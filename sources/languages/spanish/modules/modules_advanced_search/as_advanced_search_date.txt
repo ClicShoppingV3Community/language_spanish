@@ -1,0 +1,6 @@
+
+module_advanced_search_date_title = ¿Desea mostrar un campo de fecha?
+module_advanced_search_date_description = Mostrar un campo de fecha que permite al cliente insertar criterios
+
+modules_advanced_search_date_entry_date_from = Fecha desde
+modules_advanced_search_date_entry_date_to = Fecha hasta

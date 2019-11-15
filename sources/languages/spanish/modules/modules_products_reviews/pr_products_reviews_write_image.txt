@@ -1,0 +1,4 @@
+modules_products_reviews_write_image_title = Escribir comentario: ¿Desea mostrar la imagen del producto?
+modules_products_reviews_write_image_description = Mostrar la imagen del producto
+
+text_price =

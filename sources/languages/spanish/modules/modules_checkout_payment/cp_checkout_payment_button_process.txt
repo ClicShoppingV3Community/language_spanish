@@ -1,0 +1,5 @@
+
+module_checkout_payment_button_process_title = ¿Desea mostrar un botón de proceso para continuar la orden de proceso?
+module_checkout_payment_button_process_description = Mostrar un botón de proceso para continuar la orden de proceso
+button_continue = Continuar
+

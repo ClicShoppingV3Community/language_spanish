@@ -1,0 +1,13 @@
+heading_title =
+text_no_products = No hay productos en esta categoría.
+text_no_products2 = No hay productos disponibles de este fabricante.
+text_number_of_products = Número de productos:
+text_show = <strong> Mostrar: </strong>
+text_buy = Compre 1
+text_now = ahora
+text_all_categories = Todas las categorías
+text_all_manufacturers = Todos los fabricantes
+
+min_qty_order_product = Cantidad min:
+text_price =
+min_qty_order_product = Para lograr un pedido es necesario tener al menos una cantidad mínima en su cesta para cada producto. Su cantidad de producto se actualiza automáticamente si su pedido es inferior a la cantidad autorizada bajo.

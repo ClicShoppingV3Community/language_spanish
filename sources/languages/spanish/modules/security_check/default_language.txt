@@ -1,0 +1,2 @@
+error_no_default_language_defined = Error: actualmente no hay un idioma predeterminado establecido. Establezca uno en: Configuración / otros / Idiomas
+default_language = Idioma predeterminado

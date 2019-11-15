@@ -1,0 +1,3 @@
+navbar_title = Comentarios
+heading_title = Lea lo que estan diciendo los demás
+text_no_reviews = Sin comentarios

@@ -1,0 +1,12 @@
+module_login_customer_privacy = ¿Desea mostrar una información de privacidad?
+module_login_customer_privacy_description = Mostrar un texto sobre una información de privacidad y privacidad para el cliente
+
+text_customer_privacy = <strong> Datos seguros </strong> <br /> <br /> {{store_name}} acuerda proteger toda su información personal y mantener una estricta confidencialidad. No vendemos direcciones de correo electrónico a empresas de marketing por correo electrónico.
+La información que proporciona, a excepción de su contraseña que está cifrada y no se puede leer, es para el personal autorizado {{store_name}} autorizado que es el controlador.
+Sus datos se utilizan para administrar su acceso a su cuenta de cliente {{store_name}}, y también para el procesamiento y el seguimiento de sus pedidos, el servicio postventa de los productos pedidos en nuestro Sitio,
+gestión de marketing y relaciones con clientes, recaudación y lucha contra el fraude.
+Sus datos, excepto su contraseña, pueden enviarse a los proveedores de {{store_name}} para el procesamiento de pedidos, la gestión de la relación con el cliente y el servicio postventa.
+En aplicación de la ley del 6 de enero de 1978 sobre computadoras, archivos y libertades, usted tiene los derechos, el acceso y la rectificación de sus datos personales y el derecho a oponerse a su tratamiento por razones legítimas. También tiene derecho a formular pautas específicas o generales con respecto al almacenamiento, eliminación y comunicación de sus datos post mortem. Puede ejercer todos estos derechos poniéndose en contacto con nosotros a través del formulario de contacto del sitio. <br />
+También puede administrar sus datos personales y preferencias en cualquier momento en su cuenta
+
+heading_title_b2b = Información de privacidad

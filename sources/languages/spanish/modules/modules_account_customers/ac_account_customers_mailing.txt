@@ -1,0 +1,6 @@
+module_account_customers_mailing_title = ¿Desea mostrar el acceso al menú de correo del cliente?
+module_account_customers_mailing_description = Mostrar el acceso al menú de correo del cliente (notificaciones y boletín informativo
+
+module_account_customers_email_mailing_title = Suscripción a boletines y notificaciones de productos
+module_account_customers_email_mailing_newsletters = Suscribirse o darse de baja de los boletines.
+module_account_customers_email_mailing_products = Ver o cambiar la lista de notificaciones de mi producto.

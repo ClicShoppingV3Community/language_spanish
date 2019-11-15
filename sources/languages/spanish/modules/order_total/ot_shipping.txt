@@ -1,0 +1,5 @@
+module_order_total_shipping_title = Gastos de Envío
+module_order_total_shipping_description = Gastos de Envío del Pedido
+
+free_shipping_title = Envío Gratuito
+free_shipping_description = Envío gratuito para pedidos superiores a %s

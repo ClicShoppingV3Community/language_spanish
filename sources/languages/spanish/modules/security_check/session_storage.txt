@@ -1,0 +1,2 @@
+warning_session_directory_non_existent = El directorio de sesiones no existe: {{session_path}}. las sesiones no funcionaran hasta que este directorio sea creado.
+warning_session_directory_not_writeable = No puedo escribir en el directorio de sesiones: {{session_path}}. Las sesiones no funcionarán hasta que se establezcan los permisos de usuario correctos.

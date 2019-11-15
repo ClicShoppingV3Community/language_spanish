@@ -1,0 +1,2 @@
+module_front_page_manager_title = ¿Desea mostrar el Administrador de páginas?
+module front_page manager description = ¿Desea mostrar el administrador de página en la página principal?

@@ -1,0 +1,11 @@
+module_account_customers_list_order_title = ¿Desea mostrar el pedido de los clientes?
+module_account_customers_list_order_description = Mostrar el pedido del cliente
+
+module_account_customers_list_order_order = Mis pedidos
+module_account_customers_list_order_order_text = <strong> Nota: </strong> Para cualquier queja / retiro o solicitud de un pedido completado, edite su pedido y haga clic en el enlace de soporte
+
+overview_title = Descripción general
+overview_show_all_orders = (mostrar todos los pedidos)
+overview_previous_orders = Pedidos anteriores
+
+button_view = Mostrar

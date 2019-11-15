@@ -1,0 +1,3 @@
+module_security_check_extended_admin_includes_directory_listing_title = ClicShoppingAdmin / include / Access
+module_security_check_extended_admin_includes_directory_listing_http_200 = Este directorio ClicShoppingAdmin / include / podría acceder, cambie los derechos
+includes_directory_listing = ClicShoppingAdmin / include

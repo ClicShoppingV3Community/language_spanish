@@ -1,0 +1,28 @@
+
+module_footer_multi_template_title = ¿Desea mostrar el sistema de múltiples plantillas en el pie de página?
+ module_footer_multi_template_description = Agregar un sistema de plantillas múltiples
+
+ module_footer_multi_template_account_heading_title = Mi cuenta
+ module_footer_multi_template_contact_us_heading_title = Contáctenos
+ module_footer_multi_template_text_heading_title = Seguridad / confidencialidad
+ module_footer_multi_template_text_text = Nuestros socios han sido seleccionados por su seriedad y su habilidad en seguridad transaccional y no vendemos los correos electrónicos a nuestros clientes
+ module_footer_multi_template_information_heading_title = Síguenos
+
+ module_footer_multi_template_contact_us_email_link = Contáctenos
+
+ module_footer_multi_template_information_shipping = Facebook
+ module_footer_multi_template_information_privacy = twitter
+ module_footer_multi_template_information_contact = Pinterest
+
+ module_footer_multi_template_account_box_account = Mi cuenta
+ module_footer_multi_template_account_box_address_book = Mi libreta de direcciones
+ module_footer_multi_template_account_box_order_history = Mi historial
+ module_footer_multi_template_account_box_logoff = Cerrar sesión
+ module_footer_multi_template_account_box_create_account = Crear cuenta
+ module_footer_multi_template_account_box_login = Iniciar sesión
+
+ module_footer_multi_template_mailchimp_text = Suscripción al boletín
+ module_footer_multi_template_mailchimp_submit = Suscribirse
+
+ module_footer_multi_template_mailchimp_valid_email_address = por favor, ingrese una dirección de correo electrónico válida
+ module_footer_multi_template_mailchimp_enter_email_address = Ingrese su dirección de correo electrónico

@@ -1,0 +1,3 @@
+module_boxes_languages_title = Idiomas
+module_boxes_languages_description = Mostrar idiomas disponibles
+module_boxes_languages_box_title = Idiomas

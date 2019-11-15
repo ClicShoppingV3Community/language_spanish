@@ -1,0 +1,10 @@
+
+module_checkout_confirmation_products_listing_title = ¿Desea mostrar la lista del resumen de productos de pedido?
+module_checkout_confirmation_products_listing_description = Mostrar el listado del resumen de los productos del pedido
+
+module_checkout_confirmation_products_listing_text_edit = Editar
+module_checkout_confirmation_products_listing_heading_products = Productos
+module_checkout_confirmation_products_listing_heading_tax = Impuestos
+module_checkout_confirmation_products_listing_heading_total = Total
+module_checkout_confirmation_products_listing_information = Su pedido
+

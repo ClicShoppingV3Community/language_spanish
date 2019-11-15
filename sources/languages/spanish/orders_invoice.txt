@@ -1,0 +1,44 @@
+table_heading_qte = Cantidad
+table_heading_products_model = Modelo
+table_heading_products = Productos
+table_heading_tax = Impuesto
+table_heading_total = Total
+table_heading_price_excluding_tax = Precio (ex)
+table_heading_price_incuding_tax = Precio (inc)
+table_heading_total_excluding_tax = Total (ex)
+table_heading_total_incuding_tax = Total (inc)
+
+entry_sold_to = VENDIDO A:
+entry_ship_to = ENVIAR A:
+
+entry_payment_method = Método de pago:
+entry_numero_invoice = Número de factura:
+entry_numero_order = Número de pedido:
+entry_date_invoice = Fecha de factura:
+entry_date_order = Fecha de pedido:
+entry_invoice = FACTURA
+entry_order = ORDEN
+print_order_date = Fecha:
+
+entry_http_site = Sitio web:
+
+entry_phone = Teléfono:
+entry_email = Correo electrónico:
+entry_customer_information = Información del cliente
+entry_customer_number = Número de cliente:
+
+thank_you_customer = Le agradecemos que haya realizado un pedido con nosotros. Esperamos volver a verte pronto.
+
+reserve_propriete = Propiedades legales: de acuerdo con las leyes {{store_name}} se reserva la propiedad de los bienes entregados hasta el pago integral del precio.
+reserve_propriete_next = Para más información, consulte nuestras condiciones generales y términos en el sitio web
+reserve_propriete_next1 = en la siguiente dirección: {{sell_conditions_url}}
+
+entry_info_societe = {{shop_code_capital}} - {{shop_code_rcs}} - {{shop_code_ape}}
+entry_info_societe_next = {{tva_shop_intracom}}
+
+entry_info_societe1 = {{shop_code_capital}} - {{shop_code_rcs}} - {{shop_code_ape}}
+entry_info_societe_next1 {{tva_shop_provincial}} - {{tva_shop_federal}}
+
+shop_divers = {{shop_divers}}
+
+

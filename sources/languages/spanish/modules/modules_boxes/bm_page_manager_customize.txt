@@ -1,0 +1,5 @@
+
+module_boxes_page_manager_customize_title = Cuadro de información secundaria
+module_boxes_page_manager_customize_description = Cuadro de información secundaria
+
+module_boxes_page_manager_customize_box_title = Nuestras informaciones

@@ -1,0 +1,5 @@
+
+module_checkout_confirmation_payment_information_title = ¿Desea mostrar el resumen del pedido realizado por el cliente?
+module_checkout_confirmation_payment_information_description = Mostrar el resumen del pedido realizado por el cliente
+
+module_checkout_confirmation_payment_information_heading_payment_information = Pago destinado a:

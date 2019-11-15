@@ -1,0 +1,12 @@
+
+module_checkout_shipping_listing_title = ¿Desea mostrar la lista de envío?
+module_checkout_shipping_listing_description = Mostrar la lista de envío
+
+module_checkout_shipping_table_heading_shipping_method = Método de envío
+module_checkout_shipping_text_choose_shipping_method = Seleccione un método de envío
+module_checkout_shipping_title_please_select = Seleccione
+
+module_checkout_shipping_text_enter_shipping_information = Es el único envío disponible para este pedido
+module_checkout_shipping_free_shipping_title = Envío gratis
+module_checkout_shipping_free_shipping_description = Envío gratis para todos los pedidos de más de {{free_shipping_amount}
+

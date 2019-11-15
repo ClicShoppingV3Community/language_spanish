@@ -1,0 +1,8 @@
+
+navbar_title_1 = Realizar pedido
+navbar_title_2 = Forma de envío
+
+heading_title_checkout_shipping = Información de entrega
+ 
+error_no_shipping_available_to_shipping_address = No hay ningún modo de envío disponible actualmente para la dirección de envío seleccionado. Por favor, seleccione o cree una nueva dirección de envío para su compra.
+error_during_process = Error: se produce un error durante el proceso de envío

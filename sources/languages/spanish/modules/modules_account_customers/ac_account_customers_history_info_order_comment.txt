@@ -1,0 +1,8 @@
+
+module_account_customers_history_info_order_comment_title = Información del historial: ¿Desea mostrar el comentario (estado) del pedido?
+module_account_customers_history_info_order_comment_description = Mostrar el comentario del pedido (estado)
+
+module_account_customers_history_info_order_comment_heading_history = Historial de pedidos / facturas
+module_account_customers_history_info_order_comment_invoice_heading_comment = Comentarios
+module_account_customers_history_info_order_comment_invoice_text_no_comments_available = No hay comentarios disponibles.
+module_account_customers_history_info_order_comment_support = Estatuto de soporte:

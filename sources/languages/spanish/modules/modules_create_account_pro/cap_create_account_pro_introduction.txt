@@ -1,0 +1,7 @@
+module_create_account_pro_introduction_title = ¿Desea mostrar una introducción para la creación de cuenta profesional?
+module_create_account_pro_introduction_description = Mostrar una introducción para la creación profesional de cuentas
+
+module_create_account_pro_introduction_text_origin_login = <p style = "color: #000000;"> ¡Abrir una cuenta profesional es gratis si es una empresa! <br /> <br /> Puede tener todas las ventajas que le proponemos. Toda la información es condicional y reservada. Conservamos toda su información y no vendemos nuestra información en diferentes compañías de marketing. </p> <br /> <br />
+module_create_account_pro_introduction_text_b2b = <span style = "text-decoration: underline;"> Nota </span>: Para abrir una cuenta de cliente normal, haga clic en el botón
+
+button_continue = Continuar

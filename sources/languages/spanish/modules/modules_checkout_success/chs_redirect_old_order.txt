@@ -1,0 +1,3 @@
+
+module_checkout_success_redirect_old_order_title = ¿Desea redirigir al cliente a la página de índice después de un retraso?
+module_checkout_success_redirect_old_order_description = Redireccionar al cliente a la página de índice después de un retraso

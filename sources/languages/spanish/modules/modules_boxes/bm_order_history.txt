@@ -1,0 +1,3 @@
+module_boxes_order_history_title = Historial de pedidos
+module_boxes_order_history_description = Mostrar notificaciones de productos en la página de información del cliente
+module_boxes_order_history_box_title = Historial de pedidos

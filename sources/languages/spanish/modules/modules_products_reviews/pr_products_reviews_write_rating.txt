@@ -1,0 +1,6 @@
+  modules_products_reviews_write_rating_title = Escribir comentario: ¿Desea permitir al cliente calificar el producto?
+  modules_products_reviews_write_rating_description = Permitir al cliente la tarifa del producto
+
+  modules_products_reviews_write_rating_text_bad = Malo
+  modules_products_reviews_write_rating_text_good = Muy bueno
+  modules_products_reviews_write_rating_text_sub_title_rating = Evaluación de su comentario

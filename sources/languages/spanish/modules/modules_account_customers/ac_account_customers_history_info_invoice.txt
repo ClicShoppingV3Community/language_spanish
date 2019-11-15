@@ -1,0 +1,12 @@
+module_account_customers_history_info_invoice_title = Información del historial: ¿Desea mostrar el detalle del pedido?
+module_account_customers_history_info_invoice_description = Mostrar el detalle del pedido
+
+module_account_customers_history_info_invoice_products = productos
+module_account_customers_history_info_invoice_tax = Impuesto
+module_account_customers_history_info_invoice_total = Total
+
+module_account_customers_history_info_invoice_order_number = N # {{order_id}}
+module_account_customers_history_info_invoice_order_date = Fecha del pedido:
+module_account_customers_history_info_invoice_order_total = Cantidad total:
+
+module_account_customers_history_info_invoice_heading_billing_information = Información pedido / factura

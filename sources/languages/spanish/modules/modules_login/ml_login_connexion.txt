@@ -1,0 +1,13 @@
+ module_login_connexion = ¿Desea mostrar el formulario de inicio de sesión en la cuenta del cliente?
+  module_login_connexion_description = Ver el formulario de conexión al cliente completo.
+  module_login_connexion_heading_new_customer = Soy cliente
+
+  module_login_connexion_heading_returning_customer = Soy cliente
+  module_login_connexion_text_returning_customer = Soy un cliente que regresa.
+  module_login_connexion_entry_email_address = Su correo electrónico:
+  module_login_connexion_entry_email_address_text =
+  module_login_connexion_entry_password = Contraseña:
+  module_login_connexion_text_password_forgotten = ¿Olvidó su contraseña? Haga clic aquí.
+
+  button_login = Iniciar sesión
+  module_login_connexion_entry_password_text = Contraseña olvidada

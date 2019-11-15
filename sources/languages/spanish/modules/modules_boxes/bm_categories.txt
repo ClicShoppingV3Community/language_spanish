@@ -1,0 +1,3 @@
+module_boxes_categories_title = Categorías
+module_boxes_categories_description = Mostrar el árbol de navegación categoría
+module_boxes_categories_box_title = Categorías

@@ -1,0 +1,3 @@
+module_shopping_cart_checkout_step_title = ¿Desea mostrar el paso sobre el proceso de pedido?
+
+module_shopping_cart_checkout_step_description = muestra el paso sobre el proceso de pedido

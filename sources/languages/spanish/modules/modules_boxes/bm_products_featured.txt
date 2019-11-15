@@ -1,0 +1,9 @@
+
+module_boxes_products_featured_title = Productos destacados
+module_boxes_products_featured_description = Exhibición de productos destacados
+module_boxes_products_featured_box_title = Productos destacados
+module_boxes_products_featured_all_products_featured = Todos los productos destacados
+
+text_flash_discount = Descuento Flash
+
+button_detail = Detalles

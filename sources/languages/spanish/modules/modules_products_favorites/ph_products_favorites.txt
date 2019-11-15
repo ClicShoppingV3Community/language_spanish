@@ -1,0 +1,45 @@
+
+module_products_favorites_title = ¿Desea mostrar los favoritos?
+module_products_favorites_description = Mostrar los favoritos
+
+text_date_added = En venta desde el:
+text_product_options = Opciones
+min_qty_order_product = Cantidad mínima para una compra:
+text_no_products = No hay productos en este momento
+
+text_stock = Stock
+text_flash_discount = Descuento flash
+text_customer_quantity = Cantidad
+text_products_quantity_type = Tipo de cantidad
+text_products_free = Gratis
+text_manufacturer = marcas
+text_products_price_kilo = Px / Kg
+text_date_available = Fecha disponible
+text_only_shop = Solo comprar
+text_only_web = Solo web
+text_products_info_packaging_text = Producto
+text_products_packaging_new = nuevo
+text_products_packaging_repackaged = Reempaquetado
+text_products_packaging_used = Usado
+text_display_shipping_delay = Retraso en el envío
+text_products_volume = Volumen
+text_display_products_weight = Kg
+text_price =
+
+text_sort_by = Mostrar por
+
+text_out_of_stock = Agotado
+text_alert_stock = Alerta de stock
+text_in_stock = En stock
+
+table_heading_price = Precio
+table_heading_model = Modelo
+table_heading_quantity = Cantidad
+table_heading_weight = Peso
+table_heading_date = Fecha
+
+button_details = Detalles
+button_buy_now = Comprar
+button_exhausted = Agotado
+
+template_does_not_exist = La plantilla no existe, verifique su plantilla

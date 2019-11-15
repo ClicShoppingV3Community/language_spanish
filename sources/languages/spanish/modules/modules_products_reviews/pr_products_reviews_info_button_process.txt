@@ -1,0 +1,5 @@
+modules_products_reviews_info_button_process_title = Comentario de la conferencia: ¿Desea que el cliente muestre el botón de proceso?
+ modules_products_reviews_info_button_process_description = Permitir al cliente mostrar el botón de proceso
+
+ button_write = Escribir un comentario
+ button_back = Atrás

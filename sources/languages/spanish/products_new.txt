@@ -1,0 +1,8 @@
+navbar_title = Novedades
+heading_title = Novedades
+
+text_date_added = Fecha Agregada:
+text_manufacturer = Fabricante:
+text_price = Precio:
+text_product_options = Opciones sugeridas:
+text_no_products = No hay productos en esta categoría

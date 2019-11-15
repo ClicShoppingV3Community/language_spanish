@@ -1,0 +1,7 @@
+module_checkout_confirmation_law_hamon_title = ¿Desea mostrar la Ley hamon en el proceso de pedido?
+module_checkout_confirmation_law_hamon_description = muestra la Ley hamon en el proceso de pedido
+
+module_checkout_confirmation_law_hamon_text_error_agreement = Acuerdo de error: Actualice la página (F5) y marque la casilla para continuar
+module_checkout_confirmation_law_hamon_text_conditions = <strong> Al validar esta casilla de verificación y presionar el botón confirmado, acepto confirmar el pedido de los productos pedidos </strong>
+module_checkout_confirmation_law_hamon_text_title = Acuerdo de pago
+form_required_information = Requerido

@@ -1,0 +1,4 @@
+module_boxes_page_manager_title = Cuadro de información primaria
+module_boxes_page_manager_description = visualización principal de información
+
+module_boxes_page_manager_box_title = Nuestros servicios

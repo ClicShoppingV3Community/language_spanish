@@ -1,0 +1,5 @@
+
+module_checkout_payment_comment_title = ¿Desea permitir que el cliente inserte un comentario sobre este pedido?
+module_checkout_payment_comment_description = Permitir al cliente insertar un comentario sobre este pedido
+module_checkout_payment_comment_table_heading_comments = Agregar comentarios sobre su pedido
+module_checkout_payment_comment_text = Inserte su comentario

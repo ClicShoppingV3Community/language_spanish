@@ -1,0 +1,16 @@
+
+navbar_title_1 = Pedido
+navbar_title_2 = Realizado con éxito
+heading_title = ¡Tu pedido ha sido procesado!
+button_continue = Continuar
+
+module_checkout_success_guest_account_create_account_subject = {{store_name}} - Información sobre su nuevo accont y contraseña
+module_checkout_success_guest_account_create_account_hello = Hola, <br /> <br />
+A continuación encontrará toda la información sobre su solicitud. <br/> <br />
+module_checkout_success_guest_account_create_account_body = <br /> <br /> Por favor, encontrará debajo de su nueva contraseña que le permite conectarse en {{store_name}} <br />
+Nombre de usuario: {{nombre de usuario}} <br />
+Contraseña: {{contraseña}} <br /> <br />
+Saludos, <br /> <br />
+<strong> {{store_name}} Equipo </strong> <br /> <br />
+<p> {{store_name_address}} <br /> <br />
+

@@ -1,0 +1,11 @@
+module_account_customers_history_info_download_title = Información del historial: ¿Desea permitir la descarga de archivos en la Información del historial?
+module_account_customers_history_info_download_description = Permitir a los clientes descargar archivos
+
+module_account_customers_history_info_download_text_heading_title = Descargar
+module_account_customers_history_info_download_table_heading_download_date = Fecha de caducidad:
+module_account_customers_history_info_download_able_heading_download_count = Descargas restantes.
+module_account_customers_history_info_download_text_download_files = Descargar el archivo
+
+module_account_customers_history_info_download_text_download_header_title_my_account = Mi cuenta
+
+module_account_customers_history_info_download_text_download_header_footer_download = También puede descargar sus productos más adelante en {{url}}

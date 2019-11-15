@@ -1,0 +1,9 @@
+navbar_title = Mi Cuenta
+heading_title = Mi Cuenta
+
+my_support = Póngase en contacto con los servicios de atención al cliente
+my_orders_title = Mis pedidos
+my_orders_view = Ver los pedidos que realizó.
+
+module_account_customers_my_account_information = Notificaciones por correo electrónico
+module_account_customers_my_account_address_book = Subscribirse o no a los boletines.

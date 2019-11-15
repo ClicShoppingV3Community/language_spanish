@@ -1,0 +1,3 @@
+module_shopping_cart_show_total_title = ¿Desea mostrar el subtotal del carrito?
+  module_shopping_cart_show_total_description = Mostrar el subtotal del carrito
+  module_shopping_cart_show_total_sub_total = Subtotal

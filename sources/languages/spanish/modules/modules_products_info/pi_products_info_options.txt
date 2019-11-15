@@ -1,0 +1,4 @@
+module_products_info_options = ¿Desea mostrar las opciones del producto?
+module_products_info_options_description = Mostrar las opciones del producto
+
+text_product_options = Opciones disponibles :

@@ -1,0 +1,37 @@
+module_index_categories_new_products_title = ¿Desea mostrar las novedades de productos en las categorías?
+module_index_categories_new_products_description = Mostrar noticias de productos en las categorías
+module_index_categories_new_products_name = Las últimas noticias en estas categorías
+
+module_index_categories_products_heading_title = Nuevos productos
+
+
+text_stock = Stock
+text_flash_discount = Descuento flash
+text_customer_quantity = qty
+text_products_quantity_type = Tipo de cantidad
+text_products_free = Gratis
+text_manufacturer = marcas
+text_products_price_kilo = Px / Kg
+text_date_available = Fecha disponible
+text_only_shop = Solo comprar
+text_only_web = Solo web
+text_products_info_packaging_text = Producto
+text_products_packaging_new = nuevo
+text_products_packaging_repackaged = Reempaquetado
+text_products_packaging_used = Usado
+text_display_shipping_delay = Retraso en el envío
+text_products_volume = Volumen
+text_display_products_weight = Kg
+text_price =
+
+text_out_of_stock = Agotado
+text_alert_stock = Alerta de stock
+text_in_stock = En stock
+
+min_qty_product = min qty
+
+button_details = Detalles
+button_buy_now = Comprar
+button_exhausted = Agotado
+
+template_does_not_exist = La plantilla no existe, verifique su plantilla

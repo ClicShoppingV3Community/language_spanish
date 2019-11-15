@@ -1,0 +1,2 @@
+warning_config_file_writeable = Puedo escribir en el archivo de configuración: {{configure_file_path}}. Este es un riesgo de seguridad potencial: configure los permisos de usuario correctos en este archivo.
+config_file_catalog = Catálogo de configuración

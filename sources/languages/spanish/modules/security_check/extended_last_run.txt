@@ -1,0 +1,2 @@
+module_security_check_extended_last_run_old = Han pasado más de 30 días desde la última vez que se realizaron las verificaciones de seguridad extendidas. Vuelva a ejecutar las comprobaciones de seguridad ampliadas en Herramientas y comprobaciones de seguridad.
+extended_last_run = Última verificación

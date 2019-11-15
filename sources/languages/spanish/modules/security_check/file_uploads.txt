@@ -1,0 +1,2 @@
+warning_file_uploads_disabled = Advertencia: las cargas de archivos están deshabilitadas en el archivo de configuración php.ini.
+file_uploads = Subidas de archivos

@@ -1,0 +1,4 @@
+
+module_advanced_search_criteria_title = ¿Desea mostrar un campo de búsqueda?
+module_advanced_search_criteria_description = Mostrar un campo de búsqueda que permite al cliente insertar criterios
+module_advanced_search_criteria_text = Criterios de búsqueda

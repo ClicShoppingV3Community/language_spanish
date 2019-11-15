@@ -1,0 +1,10 @@
+
+navbar_title = Ofertas
+heading_title = ¡Ofertas especiales!
+
+text_no_products = No hay ofertas especiales en este momento
+
+ text_date_added = Fecha de adición:
+  text_manufacturer = Marcas:
+  text_price = Precio:
+  text_product_options = opciones sugeridas:

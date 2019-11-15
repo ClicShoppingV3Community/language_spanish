@@ -1,0 +1,4 @@
+ module_shopping_cart_delay_save_cart_message_title = ¿Desea mostrar un mensaje de información para el cliente que le permita saber la demora sobre este carrito?
+  module_shopping_cart_delay_save_cart_message_description = Muestra un mensaje de información para el cliente que permite saber el retraso sobre este carrito se guarda
+
+  module_shopping_cart_delay_save_cart_message_information = El contenido de su cesta se almacena aquí por más de 30 días, luego de registrarse, para que pueda regresar en cualquier momento

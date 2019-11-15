@@ -1,0 +1,31 @@
+module_account_customers_gdpr_title = Acceso y rectificación de mis datos
+module_account_customers_gdpr_account_intro = Con respecto a la privacidad de sus datos, estamos tratando de ayudarlo a configurar la confidencialidad de sus datos que desea compartir con nosotros. <br />
+Esta sección puede evolucionar en cualquier momento y si una función tiene un impacto en sus datos personales, podemos configurarla en esta sección. Intentamos ser transparentes con usted sobre sus datos
+Su cuenta de cliente le permite habilitar y deshabilitar un cierto número de funciones. Para servirle mejor, le recomendamos que piense detenidamente antes de tomar cualquier medida. <br /> <br />
+<strong> Algunas acciones pueden ser irreversibles porque borrará todos sus datos. </strong>
+module_account_customers_gdpr_no_ip_address = No almacenar mi dirección IP y el nombre de mi proveedor
+module_account_customers_gdpr_delete_all_reviews = Eliminar todos los comentarios hasta ahora
+module_account_customers_gdpr_count_customers_reviews = Número de comentarios
+module_account_customers_gdpr_delete_customers_info = Eliminar toda la información sobre mis conexiones hasta ahora
+module_account_customers_gdpr_delete_my_orders_feedback = Eliminar mis comentarios sobre los pedidos realizados hasta ahora
+module_account_customers_gdpr_count_orders_feedback = Número de comentarios
+module_account_customers_more_info = Si desea que tomemos medidas sobre sus datos personales, no dude en contactarnos. Estaremos encantados de estudiar su solicitud y ver cómo se puede lograr.
+module_account_customers_contact_us = Contáctenos
+module_account_customers_gdpr_delete_action_recorder = Eliminar todos los registros de mis acciones hasta ahora
+module_account_customers_gdpr_customer_bidth = Supprimer ma date de naissance
+module_account_customers_gdpr_account_delete_title = Eliminar mi cuenta
+module_account_customers_gdpr_account_intro_delete = Al confirmar esta acción, su cuenta y sus datos serán eliminados permanentemente. <br />
+- No debe tener ningún pedido en proceso. <br />
+- Recibirá un correo electrónico de confirmación de cuenta. <br />
+- Para cualquier problema, contáctenos. <br />
+- Gracias por tu confianza y esperamos verte de nuevo.
+
+module_account_customers_gdpr_account_checkbox = Confirme que solicita eliminar su cuenta:
+
+module_account_customers_gdpr_email_text_subject = Cuenta eliminada;
+module_account_customers_gdpr_email_text_message = Le confirmamos que su solicitud se ha realizado. <br /> <br /> Esperamos verlo pronto. <br /> <br /> Saludos, equipo
+
+module_account_customers_gdpr_checkbox = Por favor, confirme su elección
+
+module_account_customers_gdpr_text_error_delete = Error durante el tratamiento. Compruebe que no se hayan procesado pedidos. <br /> Si el error persiste, contáctenos.
+

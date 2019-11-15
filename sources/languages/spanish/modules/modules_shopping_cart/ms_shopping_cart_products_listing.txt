@@ -1,0 +1,12 @@
+module_shopping_cart_products_listing_title = ¿Desea mostrar los artículos del carrito de compras?
+module_shopping_cart_products_listing_description = Mostrar los artículos del carrito de compras
+
+table_heading_quantity = Cantidad
+table_heading_products = Producto (s)
+table_heading_total = Total
+
+button_remove = Eliminar este producto del carrito
+text_shopping_cart_save_money_for_this_product = Si compra este producto, ahorrará:
+text_shopping_cart_save_money_by_product = por cantidad
+text_shopping_cart_products_discount_quantity = Su descuento basado en las cantidades de productos pedidos se ha aplicado. Salvaste
+text_shopping_cart_products_discount_without_tax = Sin impuestos

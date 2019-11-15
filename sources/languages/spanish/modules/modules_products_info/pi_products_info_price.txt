@@ -1,0 +1,12 @@
+
+  module_products_info_price = ¿Desea habilitar el botón de precio del producto?
+  module_products_info_price_description = Mostrar el botón de precio del producto
+
+  text_price_info =
+  text_products_info_price_by_weight = Precio por Kg:
+  button_cart = Añadir carrito de compras
+  customer_quantity = Quantité
+
+  min_qty_order_product = Cantidad min:
+  products_not_sell = productos no vendidos
+  button_continue = continuar

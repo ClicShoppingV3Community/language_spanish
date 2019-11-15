@@ -1,0 +1,8 @@
+
+module_checkout_payment_listing_title = ¿Desea mostrar un método de pago?
+module_checkout_payment_listing_description = Mostrar un método de pago
+
+module_checkout_payment_listing_table_heading_payment_method = Método de pago
+module_checkout_payment_listing_title_please_select = Seleccione
+module_checkout_payment_listing_text_enter_payment_information = Actualmente, este es el único método de pago disponible para usar en este pedido
+module_checkout_payment_listing_text_select_payment_method = Seleccione un método de pago

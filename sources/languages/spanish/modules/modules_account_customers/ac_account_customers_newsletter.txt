@@ -1,0 +1,9 @@
+
+module_account_customers_newsletter_title = ¿Desea permitir que el cliente se suscriba o anule la suscripción del boletín?
+module_account_customers_newsletter_description = Mostrar un formulario que permite al cliente suscribirse o cancelar la suscripción al boletín
+
+my_newsletter_title = Mi boletín informativo
+module_account_customers_newsletter = Boletín general
+module_account_customers_newsletters_dscription = Incluyendo noticias de la tienda, nuevos productos, ofertas especiales y otros anuncios promocionales.
+
+button_continue = Continuador

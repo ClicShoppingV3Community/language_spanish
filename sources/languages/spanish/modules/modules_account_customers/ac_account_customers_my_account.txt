@@ -1,0 +1,11 @@
+module_account_customers_my_account_title = ¿Desea mostrar la información de la cuenta del cliente?
+module_account_customers_my_account_desription = Mostrar la información de la cuenta del cliente
+module_account_customers_my_account_information = Mostrar o modificar mi información en mi cuenta
+module_account_customers_my_account_address_book = Mostrar o cambiar mi libreta de direcciones
+module_account_customers_my_account_password = Cambiar la contraseña de mi cuenta
+module_account_customers_my_account_newsletters = Cambiar la configuración del boletín
+module_account_customers_my_account_notifications = Cambiar la configuración de productos y especiales
+module_account_customers_my_account_my_feed_back = Mostrar o escribir un pedido / producto de comentarios ...
+module_account_customers_my_account_customer = Administración de cuentas
+module_account_customers_my_account_delete_account = Eliminar mi cuenta
+module_account_customers_my_account_gdpr = Mi gestión de acceso a datos

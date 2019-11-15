@@ -1,0 +1,5 @@
+module_boxes_manufacturer_info_title = Fabricante
+module_boxes_manufacturer_info_description = Mostrar información del fabricante en la página de información sobre el producto
+module_boxes_manufacturer_info_box_title = Fabricante
+module_boxes_manufacturer_info_box_other_products = Otros productos
+module_boxes_manufacturer_info_box_homepageE = Página de inicio

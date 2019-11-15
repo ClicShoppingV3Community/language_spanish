@@ -1,0 +1,2 @@
+module_security_check_extended_admin_http_authentication_title = Autenticación HTTP de administrador
+module_security_check_extended_admin_http_authentication_error = La autenticación HTTP no se ha configurado para la herramienta de administración ClicShopping; configúrela en la configuración de su servidor web para proteger aún más la herramienta de administración del acceso no autorizado.

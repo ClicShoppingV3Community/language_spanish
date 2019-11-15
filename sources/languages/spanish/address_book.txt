@@ -1,0 +1,19 @@
+navbar_title_1 = Mi Cuenta
+navbar_title_2 = Mis direcciones
+
+heading_title = Mis direcciones
+
+heading_description = Crear otra dirección: su residencia principal, su dirección de palabra, etc.
+
+primary_address_title = Dirección Principal
+primary_address_description = Esta dirección se seleccionará por defecto para el envío y para la facturación de sus pedidos. <br> <br> Esta dirección también se utilizará para calcular los impuestos que le correspondan.
+
+address_book_title = Entradas de la libreta de direcciones
+
+primary_address = (primary_address)
+primary_book_title = (dirección principal)
+text_maximum_entries = <abarcan clase = "inputRequirement"> NOTA: </span> Se permite un máximo de% s direcciones.
+
+button_edit = Editar
+button_delete = Eliminar
+button_back = Atrás

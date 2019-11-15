@@ -1,0 +1,10 @@
+
+module_boxes_products_favorites_title = Favoritos
+module_boxes_products_favorites_description = Visualización favorita
+
+module_boxes_products_favorites_box_title = Favoritos
+module_boxes_products_favorites_all_products_favorites = Todos los favoritos
+
+text_flash_discount = Descuento Flash
+
+button_detail = Detalles

@@ -1,0 +1,38 @@
+module_create_account_registration_title = ¿Desea mostrar el formulario de registro para la creación de la cuenta?
+module_create_account_registration_description = Mostrar el formulario de registro para la creación de la cuenta
+
+entry_password_error_not_matching = La confirmación de la contraseña debe ser la misma en su contraseña.
+
+form_required = Requerido
+
+category_company = Detalles de la empresa
+category_personal = Sus datos personales
+category_address = Su dirección
+category_contact = Su información de contacto
+category_options = Opciones
+category_password = Tu contraseña
+
+entry_first_name = Nombre
+entry_first_name_text = *
+
+entry_last_name = Apellido
+entry_last_name_text = *
+
+entry_date_of_birth = Fecha de nacimiento
+entry_date_of_birth_text = * Formato: JJ / MM / AAAA
+
+entry_email_address = Correo electrónico
+entry_email_address_text = *
+entry_email_address_confirmation = Confirmación por correo electrónico
+
+entry_newsletter = Newsletter
+entry_newsletter_text =
+
+entry_password = Contraseña
+entry_password_text = *
+
+entry_password_confirmation = Confirmación de contraseña
+entry_password_confirmation_text = * Confirmación de contraseña
+
+text_create_account_dgrp = Debemos usar su correo electrónico para crear su cuenta y permitirle acceder a ella. En cualquier momento puede cambiar esta información.
+text_create_account_dob_dgrp = Su fecha de nacimiento nos ayuda a identificar su edad y le permite realizar un pedido. No mostramos su fecha de nacimiento sin su consentimiento explícito

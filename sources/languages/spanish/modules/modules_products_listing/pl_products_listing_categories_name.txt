@@ -1,0 +1,2 @@
+module_products_listing_categories_name_title = ¿Desea mostrar el título de las categorías en el listado?
+module_products_listing_categories_name_description = Mostrar el título de las categorías en el listado

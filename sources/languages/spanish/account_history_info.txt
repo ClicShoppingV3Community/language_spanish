@@ -1,0 +1,6 @@
+
+navbar_title_1 = Mi cuenta
+navbar_title_2 = Historial
+navbar_title_3 = Pedido Nº # {{order_id}}
+
+heading_title_history_information = Comando de información

@@ -1,0 +1,6 @@
+
+module_checkout_shipping_address_title = ¿Desea mostrar la dirección de envío?
+module_checkout_shipping_address_description = Mostrar la dirección de envío
+module_checkout_shipping_address_title_shipping_address = Dirección de envío:
+module_checkout_shipping_address_text_choose_shipping_destination = Elija la dirección de envío que desee.
+module_checkout_shipping_address_button_change_address = Cambiar su dirección

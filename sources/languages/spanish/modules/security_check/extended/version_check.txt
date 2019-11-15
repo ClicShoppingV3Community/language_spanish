@@ -1,0 +1,2 @@
+module_security_check_extended_version_check_title = Verificación de versión
+module_security_check_extended_version_check_error = Se realizó una nueva verificación de versión hace más de 30 días. Realice la comprobación para ver si hay una nueva versión disponible.

@@ -1,0 +1,8 @@
+module_account_customers_info_history_address_title = Información del historial: ¿Desea permitir que se muestre la dirección de facturación y la dirección de eliminación?
+module_account_customers_history_info_address_description = Mostrar dirección de facturación y dirección de eliminación
+
+module_account_customers_history_info_address_heading_delivery_address = Dirección de entrega
+module_account_customers_history_info_address_heading_shipping_method = Método de envío
+module_account_customers_history_info_address_heading_billing_information = Información de facturación
+module_account_customers_history_info_address_heading_billing_address = Dirección de facturación
+module_account_customers_history_info_address_heading_payment_method = Método de pago

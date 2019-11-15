@@ -1,0 +1,2 @@
+module_action_recorder_create_account_title = Crear cuenta catálogo
+module_action_recorder_create_account_description = Registrar el uso de la creación de cuentas para el catálogo

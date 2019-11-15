@@ -1,0 +1,2 @@
+modules_products_reviews_write_customer_agreement_title = Escribir comentario: ¿Desea mostrar un mensaje al cliente antes del envío?
+modules_products_reviews_write_customer_agreement_description = Mostrar un mensaje para el cliente el cliente antes del envío

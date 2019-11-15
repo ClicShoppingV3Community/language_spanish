@@ -1,0 +1,6 @@
+
+ navbar_title = Contenido de la Cesta
+ heading_title = Contenido del carrito
+  text_cart_empty = ¡Su carrito de compras está vacío!
+
+  button_continue = Continuar

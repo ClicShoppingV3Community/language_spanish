@@ -1,0 +1,2 @@
+modules_products_reviews_listing_description_title = Comentario del listado: ¿Desea mostrar la descripción de los productos y el título?
+ modules_products_reviews_listing_description_description = Mostrar la descripción de los productos y el título

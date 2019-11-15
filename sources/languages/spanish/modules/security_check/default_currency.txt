@@ -1,0 +1,2 @@
+error_no_default_currency_defined = Error: actualmente no hay una moneda predeterminada establecida. Establezca uno en: Configuración / otros / Monedas
+default_currency = Moneda predeterminada

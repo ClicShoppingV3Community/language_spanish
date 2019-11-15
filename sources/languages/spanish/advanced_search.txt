@@ -1,0 +1,25 @@
+
+heading_title = Búsqueda Avanzada
+
+navbar_title = Búsqueda
+navbar_title_1 = Búsqueda Avanzada
+navbar_title_2 = Resultados de la Búsqueda
+
+heading_title_1 = Búsqueda Avanzada
+heading_title_2 = Productos que satisfacen los criterios de búsqueda
+
+heading_search_criteria = Criterios de Búsqueda
+
+text_no_products = No hay productos que corresponden con los criterios de búsqueda.
+
+error_at_least_one_input = Debe introducir al menos un criterio de búsqueda.
+error_invalid_from_date = La Fecha de Alta inicial no es válida
+error_invalid_to_date = La Fecha de Alta final es inválida
+error_to_date_less_than_from_date = Fecha de Alta final debe ser mayor que Fecha de Alta inicial
+error_price_from_must_be_num = El Precio Desde debe ser númerico
+error_price_to_must_be_num = El Precio Hasta debe ser númerico
+error_price_to_less_than_price_from = Precio Hasta debe ser mayor o igual que Precio Desde
+error_invalid_keywords = Palabras clave incorrectas
+dob_format_string = dd/mm/yyyy
+button_search = Search
+

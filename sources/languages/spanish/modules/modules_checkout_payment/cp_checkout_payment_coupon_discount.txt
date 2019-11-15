@@ -1,0 +1,7 @@
+
+module_checkout_payment_coupon_discount_title = Souhaitez-vous afficher la posibilité au client d'introduite a code coupon remise?
+  module_checkout_payment_coupon_discount_description = Affiche la posibilidad al cliente de introducir un código de cupón remise
+
+  module_checkout_payment_coupon_discount_heading_coupon = Inserte su cupón de descuento
+  module_checkout_payment_coupon_discount_text_coupon = El cupón le permite obtener un descuento en su pedido. Dependiendo de los artículos pedidos, el cupón se puede aplicar o no.
+  module_checkout_payment_coupon_discount_entry_discount_coupon = Código de cupón

@@ -1,0 +1,4 @@
+module_create_account_pro_button_process_title = ¿Desea mostrar el botón de proceso en el formulario Crear cuenta profesional?
+module_create_account_pro_button_process_description = mostrar el botón de proceso (importante para dejar en verdadero)
+
+button_continue = Continuar

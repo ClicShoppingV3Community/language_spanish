@@ -1,0 +1,2 @@
+module_action_recorder_admin_login_title = Entrar en la Herramienta de Administración
+module_action_recorder_admin_login_description = Registro de accesos en la herramienta de administración.

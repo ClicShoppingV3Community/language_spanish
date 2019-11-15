@@ -1,0 +1,6 @@
+
+module_advanced_search_price_title = ¿Desea mostrar un campo de precio?
+module_advanced_search_price_description = Mostrar un campo de precio que permite al cliente insertar criterios
+
+modules_advanced_search_price_entry_price_from = Precio desde
+modules_advanced_search_price_entry_price_to = Precio a

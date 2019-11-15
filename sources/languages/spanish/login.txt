@@ -1,0 +1,9 @@
+
+ navbar_title = Entrar
+ heading_title_login = Abrir una cuenta
+
+ heading_new_customer = Nuevo cliente
+
+ text_new_customer_introduction = Elija una de las siguientes opciones. Al crear una cuenta en {{store_name}}, podrá comprar más rápido, estar al día del estado de los pedidos y realizar un seguimiento de los pedidos que haya realizado anteriormente.
+ text_login_error = Error: no hay coincidencia para la dirección de correo electrónico y / o contraseña.
+ text_visitors_cart =  <strong>Note:</strong></font> Your &quot;Visitors Cart&quot; contents will be merged with your &quot;Members Cart&quot; contents once you have logged on. <a href="javascript:session_win(;">[More Info]</a>

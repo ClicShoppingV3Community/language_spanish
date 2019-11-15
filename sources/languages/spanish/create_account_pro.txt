@@ -1,0 +1,36 @@
+
+navbar_title = Crear una cuenta profesional
+
+heading_title_create_pro = Crear una cuenta profesional
+
+email_subject = Solicitar apertura de cuenta de cliente en {{store_name}}
+
+email_subject = Bienvenido a {{store_name}}
+email_greet_mr = Estimado Sr. {{apellido}},
+email_greet_ms = Estimada Sra. {{apellido}},
+
+email_welcome = Le agradecemos la confianza de que usted nos ha testificado al registrarlo como nuevo cliente en el sitio {{store_name}}.
+Hemos tenido muy en cuenta su solicitud de inscripción para la apertura de una cuenta de oficina cerca de nuestra red. <br />
+recibirá un correo electrónico notificando la creación de su cuenta, después de la validación de su solicitud por parte de nuestros clientes de servicio, con toda la información que le permite conectarse y realizar sus compras en {{store_name}} <br /> <br />
+bajo un cliente privilegiado podrá beneficiarse de precios excepcionales en la totalidad de nuestros artículos conectándose con su cliente espacial de {{store_name}}. <br />
+para cualquier ayuda sobre nuestros servicios, no dude en ponerse en contacto con nuestro soporte: {{store_owner_email_address}}
+
+admin_email_subject = Nuevo registro de cliente en {{store_name}} - Crear cuenta Pro
+admin_email_welcome = hola, '. "\n\n". '
+admin_email_text = El nuevo cliente (modo B2B) está registrado, debajo de los detalles del usuario: <br />
+nombre: {{customer_name}} <br />
+apellido: {{customer_firstame}} <br />
+empresa: {{customer_company}} <br />
+correo electrónico: {{customer_mail}} <br />
+
+email_text_coupon = {{store_name}} se complace en ofrecerle un cupón de descuento que puede usar en cualquier momento en la tienda. <br /> <br /> El número del cupón es: <strong>
+
+email_network = Síguenos en tiempo real en: <br />
+email_twitter = http://www.twitter.com/
+email_facebook = http://www.facebook.com/
+
+entry_website_text_pro = *
+entry_company_website = Sitio web:
+
+error_action_recorder = Error: ya se ha enviado una consulta. Intente nuevamente en {{module_action_recorder_create_account_pro_email_minutes}} minutos.
+entry_county_error_pro = Error: ingrese un país o estado

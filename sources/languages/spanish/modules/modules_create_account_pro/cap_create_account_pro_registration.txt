@@ -1,0 +1,71 @@
+
+module_create_account_pro_registration_title = ¿Desea mostrar el formulario de registro para la creación de cuenta profesional?
+module_create_account_pro_registration_description = Mostrar el formulario de registro para la creación de cuenta profesional
+
+form_required = * Información requerida
+
+category_address_pro = Dirección
+category_company = Detalles de la empresa
+category_personal_pro = Sus datos personales
+category_address = Su dirección
+category_contact = Su información de contacto
+category_options = Opciones
+category_password = Tu contraseña
+
+male = hombre
+female = hembra
+male_address = Sr.
+female_address = Ms.
+
+entry_gender = Sexo:
+entry_gender_text = *
+
+entry_first_name = Nombre:
+entry_first_name_text = *
+entry_last_name = Apellido:
+entry_last_name_text = *
+entry_date_of_birth = Fecha de nacimiento:
+entry_date_of_birth_text = * (por ejemplo, 21/05/1970)
+entry_email_address = Dirección de correo electrónico:
+entry_email_address_confirmation = Confirmación de correo electrónico:
+entry_email_address_confirmation_text = * Confirme su correo electrónico
+entry_telephone_number = Número de teléfono:
+entry_telephone_number_text = *
+entry_cellular_phone_number = Número de teléfono celular:
+entry_cellular_phone_number_text =
+entry_fax_number = Número de fax:
+entry_fax_number_text =
+entry_company_website = Sitio web
+entry_company = Nombre de la empresa:
+entry_company_text = *
+entry_company_text_pro = *
+entry_siret = N ° de registro:
+entry_siret_text = *
+entry_siret_exemple = (ej .: Código RCS para la empresa francesa)
+entry_code_ape = Número de nomenclatura:
+entry_code_ape_text = *
+entry_code_ape_exemple = (ej: Código APE para la empresa francesa)
+entry_tva_intracom = No de intracom IVA:
+entry_tva_intracom_text = * Seleccione el país primero.
+entry_country = País:
+entry_country_text = *
+entry_suburb = Suburbio:
+entry_suburb_error =
+entry_suburb_text =
+entry_street_address = Dirección:
+entry_street_address_text = *
+entry_post_code = Código postal:
+entry_post_code_text = *
+entry_city = Ciudad:
+entry_city_text = *
+entry_state = Estado:
+entry_state_text = *
+entry_newsletter = Boletín informativo:
+entry_newsletter_text =
+entry_password = Contraseña:
+entry_password_text = *
+entry_password_confirmation = Confirmación de contraseña:
+entry_password_confirmation_text = * Confirme su contraseña
+
+text_create_account_pro_dgrp = Debemos usar su correo electrónico para crear su cuenta y permitirle acceder a ella. En cualquier momento puede cambiar esta información.
+text_create_account_pro_dob_dgrp = Su fecha de nacimiento nos ayuda a identificar su edad y le permite hacer un pedido. No mostramos su fecha de nacimiento sin su consentimiento explícito

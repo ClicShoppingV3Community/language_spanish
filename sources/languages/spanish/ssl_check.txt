@@ -1,0 +1,9 @@
+navbar_title = Comprobación de Seguridad
+heading_title = Comprobación de Seguridad
+
+text_information = Hemos detectado que su navegador ha generado un Identificativo de Sesión Seguro diferente al que ha estado usando a lo largo de su visita.<br><br>Por razones de seguridad, deberá entrar de nuevo en su cuenta para verificar su identidad.<br><br>Algunos navegadores no tienen la habilidad de generar un Identificativo de Sesión Seguro automáticamente. En ese caso, le recomendamos cambiar a otro que lo soporte, para continuar con su experiencia.<br><br>Hemos adoptado esta medida de seguridad en su beneficio y le pedimos disculpas anticipadas por cualquier inconveniente que pudiera ocasionarle.<br><br>Póngase en contacto con nosotros con cualquier pregunta que tenga al respecto o para realizar sus compras offline.
+
+box_information_heading = Seguridad y Privacidad
+box_information = Validamos el Identificativo de Sesión Seguro generado automáticamente por su navegador en cada petición que realiza a este servidor.<br><br>Esta validación asegura que es usted quien navega con su cuenta y no otra persona.
+
+button_continue = continuar

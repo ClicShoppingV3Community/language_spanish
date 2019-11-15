@@ -1,0 +1,32 @@
+
+header_title = Entrada Administrador
+
+text_username = Usuario:
+text_password = Contraseña:
+text_name = Nombre del administrador:
+text_firstname = Nombre del administrador
+text_create_first_administrator = No existen administradores en la Base de Datos. Por favor rellene la siguiente información para crear el primer administrador. (Una entrada manual es requerida después de este paso)
+header_title_sent_password = Recuperación de contraseña perdida
+text_sent_password = Si ha olvidado su contraseña, ingrese su dirección de correo electrónico a continuación y le enviaremos un mensaje de correo electrónico con su nueva contraseña.
+text_no_email_address_found = Error: La dirección de correo electrónico o pseudo no se encontró en nuestros registros, intente nuevamente.
+
+email_password_reminder_subject = {{store_name}} - Panel de control del administrador) - Nueva contraseña
+email_password_reminder_body = Se solicitó una nueva contraseña a {{remote_address}} <br /> <br /> Su nueva contraseña a {{store_name}} (Panel de control del administrador) es: <strong> {{new_password}} </strong>. <br /> <br />
+
+success_password_sent = Correcto: se ha enviado una nueva contraseña a su dirección de correo electrónico.
+button_submit = Enviar
+text_new_text_password = Nueva contraseña
+error_invalid_administrator = Error: Intento de entrar en administrador inválido.
+text_email_lost_password = Tu correo electrónico
+error_invalid_administrator = Error: intento de inicio de sesión de administrador no válido.
+button_login = Entrar
+button_create_administrator = Crear Administrador
+
+error_action_recorder = Error: se ha alcanzado el número máximo de intentos de inicio de sesión. Intente nuevamente en {{module_action_recorder_admin_login_minutes}} minutos. Se ha enviado un correo electrónico al administrador con su información de contacto (geolocalización). Puede intentar conectarse nuevamente una vez después del panel de administración antes de ser bloqueado permanentemente
+
+report_email_subject = Conexión intempestiva en ClicShopping
+error_action_recorder = Error: El máximo número de intentos de entrada ha sido realizado. Por favor inténtelo de nuevo en% s minutos.
+report_sender_ip_address = Dirección IP del remitente
+report_sender_host_name = Nombre del host del remitente:
+report_subject_email = [Informe] Error de conexión de inicio de sesión de administrador
+report_sender_username = Nombre de usuario:

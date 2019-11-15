@@ -1,0 +1,2 @@
+module_account_customers_history_info_button_back_title = Información del historial: ¿Desea mostrar el botón Atrás?
+module_account_customers_history_info_button_back_description = Mostrar el botón de retroceso

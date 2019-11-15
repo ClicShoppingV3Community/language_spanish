@@ -1,0 +1,5 @@
+module_shopping_cart_order_button_process_title = ¿Desea mostrar el botón de pedido para permitir que el cliente continúe con este pedido?
+  module_shopping_cart_show_total_description = Mostrar el botón de pedido para permitir que el cliente continúe este pedido
+
+  button_continue = Continuar
+  button_order = Order

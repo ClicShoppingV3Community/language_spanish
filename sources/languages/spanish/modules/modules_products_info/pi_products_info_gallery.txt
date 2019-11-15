@@ -1,0 +1,2 @@
+module_products_info_gallery_title = ¿Desea mostrar una imagen de la galería?
+module_products_info_gallery_description = Mostrar una imagen de la galería

@@ -1,0 +1,9 @@
+
+navbar_title_1 = Mi cuenta
+navbar_title_2 = Avisos de productos
+
+heading_title = Avisos de productos
+
+my_notifications_title = Notificaciones de mi producto
+
+success_notifications_updated = Sus avisos se han actualizado correctamente.

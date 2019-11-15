@@ -1,0 +1,25 @@
+module_advanced_search_help_name = ¿Desea mostrar una ayuda en la página de búsqueda web?
+module_advanced_search_help_description = mostrar una ayuda en la página de búsqueda web para el cliente
+module_advanced_search_help_title = Buscar ayuda
+module_advanced_search_help_text = <br />
+tienes problemas para encontrar el producto que buscas? Nuestro motor de búsqueda es la forma más rápida y efectiva de seleccionar la opción que satisfaga sus expectativas.
+<br /> <br />
+<strong> ¿cómo proceder? </strong>
+<br />
+<br />
+simplemente escriba la palabra que está buscando en la barra de búsqueda y haga clic en Aceptar.
+<br />
+Tiene varios filtros (categoría de producto, precio, marcas) que le permiten especificar su búsqueda. Funciones en categorías seleccionadas, aparecen filtros complementarios y le permiten un refinamiento más preciso.
+<br /> <br />
+<u> ejemplos de investigación </u> <br />
+<p class = "blockquote">
+<li class = "modulesAdvancedSearchHelp">
+puede ingresar un tipo de producto, marca, descripción, referencia: Usb, disco duro de 1000 GB, samsung tv, 1EG1.054.04., Etc.
+</li>
+<li class = "modulesAdvancedSearchHelp">
+puede separar las palabras clave por operadores lógicos AND (y) y OR (o). Por ejemplo, puede ingresar Blusa Y Pantalones. Esta investigación le mostrará los resultados que cumplen dos criterios simultáneamente.
+</li>
+<li class = "modulesAdvancedSearchHelp">
+También puede hacer una búsqueda en una cadena encerrando las palabras clave entre comillas dobles. Por ejemplo, una búsqueda en "Camisa roja" mostrará una lista de todos los elementos que coinciden con la cadena exacta en su descripción.
+</li>
+

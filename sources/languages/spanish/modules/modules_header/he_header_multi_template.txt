@@ -1,0 +1,34 @@
+modules_header_multi_template_title = ¿Desea habilitar este sistema de plantillas múltiples en el encabezado?
+modules_header_multi_template_description = Agregar un sistema de plantillas múltiples en el almacén de encabezados
+
+modules_header_multi_template_template_categories = Categorías
+modules_header_multi_template_template_toggle_nav = Catégories
+
+modules_header_multi_template_site_settings = Opciones
+modules_header_multi_template_account_logged_in = Iniciar sesión
+modules_header_multi_template_cart_no_contents = Sin producto
+
+modules_header_multi_template_account_logoff = Cerrar sesión
+modules_header_multi_template_account_login = Iniciar sesión
+modules_header_multi_template_account_register = Registrarse
+
+modules_header_multi_template_create_account = Crear una cuenta
+modules_header_multi_template_my_account = Mi cuenta
+modules_header_multi_template_account_history = Mi historial de pedidos
+modules_header_multi_template_account_address_book = Dirección de mi libro
+
+modules_header_multi_template_account_password = Contraseña
+modules_header_multi_template_title_advanced_search = Búsqueda avanzada
+
+modules_header_multi_template_header_search = Buscar
+modules_header_multi_template_title_contact_us = Contáctenos
+modules_header_multi_template_header_email_address = Correo electrónico
+modules_header_multi_template_password_forgotten = contraseña perdida
+
+modules_header_multi_template_shopping_cart_no_content = sin elementos
+modules_header_multi_template_shopping_cart_product = artículo (s)
+modules_header_multi_template_shopping_cart_view_cart = Ver carrito
+modules_header_multi_template_shopping_cart_checkout = Pagar
+modules_header_multi_template_shopping_cart_total_content = Total
+
+template_does_not_exist = Sin plantilla

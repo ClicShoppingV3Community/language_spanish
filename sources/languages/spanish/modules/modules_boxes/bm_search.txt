@@ -1,0 +1,6 @@
+module_boxes_search_title = Buscar
+module_boxes_search_description = Mostrar campo de búsqueda
+ module_boxes_search_box_text =
+
+module_boxes_search_box_title = Búsqueda rápida
+module_boxes_search_box_advanced_search = Búsqueda avanzada

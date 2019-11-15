@@ -1,0 +1,7 @@
+module_checkout_confirmation_delivery_address_title = ¿Desea mostrar la dirección de entrega del pedido?
+module_checkout_confirmation_delivery_address_description = mostrar la dirección de entrega del pedido
+module_checkout_confirmation_delivery_address_text_edit = Editar
+
+module_checkout_confirmation_delivery_address_heading_delivery = Información de entrega
+module_checkout_confirmation_delivery_address_text_delivery_title = Entrega de envío
+module_checkout_confirmation_delivery_address_text_shipping_title = Método de envío

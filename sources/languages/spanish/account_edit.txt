@@ -1,0 +1,8 @@
+
+navbar_title_1 = Cuenta
+navbar_title_2 = Editar cuenta
+heading_title = Datos de mi cuenta
+success_account_updated = Su cuenta se ha actualizado correctamente.
+
+error_address_modify_company = No tiene autorización para modificar la información de su empresa. No dude en contactarnos para recibir más información sobre esta imposibilidad.
+entry_email_address_text = *

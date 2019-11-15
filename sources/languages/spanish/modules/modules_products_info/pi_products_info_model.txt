@@ -1,0 +1,3 @@
+
+module_products_info_model = ¿Desea habilitar el modelo del producto?
+ module_products_info_model_description = Mostrar el modelo del producto

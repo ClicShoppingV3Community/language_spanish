@@ -1,0 +1,7 @@
+module_create_account_pro_success_title = Éxito: ¿Desea mostrar una página de éxito?
+module_create_account_pro_success_description = Mostrar una página de éxito
+
+button_continue = Continuar
+
+module_create_account_pro_success_text_account_created = ¡Felicitaciones! ¡Tu nueva cuenta ha sido creada con éxito! Ahora puede aprovechar los privilegios de los miembros para mejorar su experiencia de compra en línea con nosotros. Si tiene <strong> CUALQUIERA </strong> pregunta sobre el funcionamiento de esta tienda en línea, envíe un correo electrónico a <a href="index.php?Info&Contact"> {{store_owner}} </a>. <br /> < br /> Se ha enviado una confirmación a la dirección de correo electrónico proporcionada. Si no lo ha recibido en una hora, <a href="index.php?Info&Contact"> contáctenos </a>
+module_create_account_pro_success_text_account_created_1 = Recibimos su solicitud. <br /> <br /> Recibirá un correo electrónico con sus códigos de acceso que le permitirán tener acceso a nuestro sitio web después de una validación y verificación de nuestro departamento de ventas. <br /> <br / > No dude en ponerse en contacto con nuestro servicio de asistencia en línea para solicitar cualquier información adicional. <br /> <br /> Saludos, <br /> El equipo de {{store_name}}

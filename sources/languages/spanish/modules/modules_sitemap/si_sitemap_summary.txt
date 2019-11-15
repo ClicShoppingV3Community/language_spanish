@@ -1,0 +1,19 @@
+
+ modules_sitemap_summary_title = ¿Desea mostrar un resumen del mapa del sitio?
+  modules_sitemap_summary_description = Añadir un resumen del mapa del sitio
+
+  sitemap_summary_text_home_page = Página de inicio
+  sitemap_summary_text_newsletter = Suscripción al boletín
+  sitemap_summary_text_contact = Contáctenos
+
+  sitemap_summary_text_my_account = Mi cuenta
+  sitemap_summary_text_create_account = Crear una cuenta
+  sitemap_summary_text_password = Contraseña perdida
+
+  sitemap_summary_text_products_specials = Ver ofertas especiales
+  sitemap_summary_text_products_favorites = Ver favoritos
+  sitemap_summary_text_products_whats_new = Ver productos nuevos
+  sitemap_summary_text_products_featured = Ver productos destacados
+
+  sitemap_summary_text_search_advanced_search = Buscar un producto
+  sitemap_summary_text_blog = Ver el blog

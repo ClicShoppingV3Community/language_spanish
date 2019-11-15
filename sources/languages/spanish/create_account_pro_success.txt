@@ -1,0 +1,8 @@
+navbar_title_1 = Crear una cuenta
+navbar_title_2 = Éxito
+
+heading_title_account_created = Su cuenta ha sido creada
+heading_title_account_wait = ¡Solicitud de validación para una cuenta profesional!
+
+module_create_account_pro_success_text_account_created = ¡Felicidades! ¡su cuenta ha sido creada con éxito! <br /> <br /> Ahora puede acceder a todos los precios especiales que haga por usted. <br /> <br /> No dude en ponerse en contacto con nuestro <a href = "'index. php? Info & Contact '"> servicio al cliente profesional </a> para todas las preguntas. <br /> <br /> Nota: Se le ha enviado una confirmación por correo electrónico. Si no recibe esta confirmación en menos de 1 hora, no dude en ponerse en contacto con nuestro <a href="{{url_support}}"> asistencia </a>
+module_create_account_pro_success_text_account_created_1 = Hemos recibido su solicitud para abrir una cuenta profesional. <br /> <br /> Recibirá un correo electrónico con su código de acceso y le permitirá beneficiarse de nuestros precios especiales después de la verificación por nuestro servicio al cliente. <br /> < br /> No dude en contactarnos para obtener más información. <br /> <br /> Saludos, <br /> {{{store_name}}} equipo;

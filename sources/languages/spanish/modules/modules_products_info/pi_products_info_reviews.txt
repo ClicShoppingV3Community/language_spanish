@@ -1,0 +1,12 @@
+
+  module_products_info_reviews = ¿Desea habilitar las opiniones de los clientes?
+  module_products_info_reviews_description = Mostrar las opiniones de los clientes
+
+  module_products_info_reviews_all_reviews = Ver todos los comentarios
+  module_products_info_reviews_write_review = Escribir un comentario
+  heading_rewiews = Comentarios de clientes
+  text_review_date_added = Fecha añadida:
+  text_review_by = {{customer_name}}
+  button_all_reviews = Mostrar todas las reseñas
+  button_write_review = Escribir una reseña
+  text_info_no_reviews = Actualmente no hay comentarios para este producto. Haga clic en el botón escribir para crear una nueva reseña

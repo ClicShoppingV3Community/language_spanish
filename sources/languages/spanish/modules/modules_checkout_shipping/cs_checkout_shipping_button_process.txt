@@ -1,0 +1,5 @@
+
+module_checkout_shipping_button_process_title = ¿Desea mostrar el botón de proceso para permitir que el cliente continúe este pedido?
+module_checkout_shipping_button_process_description = Mostrar el botón de proceso para permitir que el cliente continúe este pedido
+button_continue = Continuar
+

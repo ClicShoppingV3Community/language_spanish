@@ -1,0 +1,5 @@
+
+module_products_favorites_title = ¿Desea mostrar el título de favoritos?
+module_products_favorites_title_description = Mostrar el título de favoritos
+
+text_heading_title = Productos favoritos

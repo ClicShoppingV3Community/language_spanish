@@ -1,0 +1,7 @@
+
+module_advanced_search_categories_title = ¿Desea mostrar una búsqueda por categoría?
+module_advanced_search_categories_description = Mostrar una búsqueda por categoría permitiendo al cliente insertar criterios
+
+modules_advanced_search_category_text_all_categories = Todas las categorías
+modules_advanced_search_category_entry_categories = Categorías
+modules_advanced_search_category_entry_include_subcategories = Incluir subcategorías

@@ -1,0 +1,6 @@
+
+module_checkout_confirmation_process_order_title = ¿Desea mostrar el botón de orden de proceso para permitir que el cliente valide esta orden?
+module_checkout_confirmation_process_order_description = mostrar el botón de orden de proceso para permitir que el cliente valide esta orden
+
+module_checkout_confirmation_process_order_button_pay = Confirme el pedido con el pago
+

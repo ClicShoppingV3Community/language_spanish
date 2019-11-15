@@ -1,0 +1,7 @@
+module_checkout_success_downloads_title = Descarga de productos
+module_checkout_success_downloads_description = Mostrar enlaces de descarga de productos en la página "checkout success"
+table_heading_download_date = Fecha caducidad:
+table_heading_download_count =  descargas restantes
+heading_download = Descargue sus productos aquí:
+footer_download = Puede descargar sus productos más tarde en %sMODULE_CONTENT_CHECKOUT_SUCCESS_DOWNLOADS_TITLE = Descarga de productos
+ 

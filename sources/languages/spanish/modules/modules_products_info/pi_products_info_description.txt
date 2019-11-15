@@ -1,0 +1,2 @@
+module_products_info_description = ¿Desea mostrar la descripción del producto?
+ module_products_info_description_description = Mostrar la descripción de los productos

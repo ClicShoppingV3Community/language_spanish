@@ -1,0 +1,5 @@
+modules_products_reviews_write_button_process_title = Escribir comentario: ¿Desea permitir que el cliente publique este comentario?
+ modules_products_reviews_write_button_process_description = Permitir al cliente publicar este comentario
+
+ button_continue = Continuar
+ button_write = Volver

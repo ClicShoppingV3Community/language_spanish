@@ -1,0 +1,10 @@
+
+module_checkout_confirmation_billing_address_title = ¿Muestra la dirección del pedido de entrega?
+module_checkout_confirmation_billing_address_description = Mostrar la dirección del pedido de entrega
+
+module_checkout_confirmation_billing_heading_billing_information = Información del pedido
+module_checkout_confirmation_billing_address_text_delivery_address = Dirección del pedido
+
+module_checkout_confirmation_billing_address_text_billing_title = Método de pago
+module_checkout_confirmation_billing_address_heading_payment_method = Método de pago
+module_checkout_confirmation_billing_address_text_edit = Editar

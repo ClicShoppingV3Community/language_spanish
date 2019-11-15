@@ -1,0 +1,3 @@
+module_boxes_currencies_title = Monedas
+module_boxes_currencies_description = Mostrar divisas disponibles
+module_boxes_currencies_box_title = Monedas

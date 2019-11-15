@@ -1,0 +1,299 @@
+date_format_short = %m/%d/%Y
+date_format_long = %A %d %B, %Y
+date_format_short_sql = %Y-%m-%d
+date_format = m/d/Y
+date_time_format = %m/%d/%Y %H:%M:%S
+js_date_format = mm/dd/yyyy
+language_currency = USD
+html_params = dir="ltr" lang="en"
+charset = utf-8
+html_lang = en
+
+title = {{store_name}}
+access_catalog = Acceso a la tienda {{store_name}}
+
+header_title_top = <i class = "fas fa-home"> </i> <span class = "sr-only"> Inicio </span>
+header_title_catalog = Catálogo
+
+text_selected = Seleccionar
+type_below = Escriba abajo
+
+footer_text_requests_since = solicitudes desde
+products_group_quantity_unit_title = FRS-
+
+error_conditions_not_accepted = Confirme los términos y condiciones vinculados a este pedido marcando la casilla a continuación.
+
+js_error = ¡Hay errores en su formulario! \ n \ nPor favor, haga las siguientes correcciones: \ n \ n
+js_review_text = * Su Comentario debe tener al menos {{min_length}} letras. \ n
+js_review_rating = * Debe evaluar el producto sobre el que opina. \ n
+js_error_no_payment_module_selected = * Por favor, seleccione un método de pago para su pedido. \ n
+js_error_submitted = Este formulario ya ha sido enviado. Presione Ok y espere a que se complete este proceso.
+
+error_no_payment_module_selected = Por favor, seleccione un método de pago para su pedido.
+error_payment_obscur = Se ha detectado un error en la verificación del proceso, vuelva a intentarlo o seleccione otro método de pago
+
+entry_text_select = Seleccionar
+entry_spam_text = *
+entry_antispam = Cuántos:
+text_antispam = tres
+
+entry_customers_phone_number_text = *
+entry_post_code = Código postal
+entry_post_code_text = *
+
+entry_company = Nombre de la Empresa:
+category_personnal = Información personal
+entry_gender = Tratamiento:
+hombre = hombre
+hembra = hembra
+entry_gender_text = *
+entry_telephone_number = Teléfono
+entry_telephone_number_text = *
+entry_street_address = Dirección
+entry_street_address_text = *
+entry_suburb = Suburbio
+entry_city = Ciudad
+entry_city_text = *
+entry_country = País
+entry_country_text = *
+entry_state = Estado / Departamento
+entry_state_text = *
+
+entry_email_address = Correo electrónico
+entry_email_address_text = *
+entry_last_name = Apellidos:
+entry_last_name_text = *
+entry_first_name = Nombre:
+entry_first_name_text = *
+
+entry_company_error = El nombre de su empresa debe contener un mínimo de '. {{longitud mínima}} . ' caracteres.
+entry_company_error_pro = El nombre de su empresa debe contener un mínimo de '. {{longitud mínima}} . ' caracteres.
+entry_siret_error = El número de registro de su empresa debe contener un mínimo de '. {{longitud mínima}} .' caracteres.
+entry_tva_intracom_error = El número de Intracom de IVA de su empresa debe contener un mínimo de '. {{longitud mínima}} .' caracteres.
+entry_code_ape_error = El número de nomenclatura que su empresa debe contener como mínimo '. {{longitud mínima}} .' caracteres.
+entry_taxe_provinciale = Número de impuesto provincial:
+entry_code_taxe_provinciale_error = El código fiscal provincial de su empresa debe contener un mínimo de '. {{longitud mínima}} .' caracteres.
+entry_code_taxe_provinciale_text = *
+entry_taxe_federale = Impuesto federal:
+entry_code_taxe_federale_error = el código fiscal federal de su empresa debe contener un mínimo de '. {{longitud mínima}} .' caracteres.
+entry_code_taxe_federale_text = *
+
+entry_gender_error = Seleccione su género.
+entry_gender_error_pro = Motivos
+entry_first_name_error = Su Nombre debe tener al menos {{min_length} letras.
+entry_first_name_error_pro = Su nombre debe contener un mínimo de {{min_length}} caracteres.
+entry_last_name_error = Sus apellidos deben tener al menos {{min_length} letras.
+entry_last_name_error_pro = Su apellido debe contener un mínimo de '. {{longitud mínima}} . ' caracteres.
+
+entry_date_of_birth_error = Su fecha de nacimiento debe tener este formato: DD / MM / AAAA (p.ej. 21/05/1970)
+entry_date_of_birth_error_pro = Su fecha de nacimiento debe estar en este formato: MM / DD / AAAA (por ejemplo, 21/05/1970)
+entry_email_address_error = Su dirección de correo electrónico no es correcta.
+entry_email_address_confirm_not_matching = El correo electrónico de confirmación debe coincidir con su dirección de correo electrónico.
+entry_email_address_error_pro = Su dirección de correo electrónico debe contener un mínimo de '. {{longitud mínima}} . ' caracteres.
+entry_email_address_check_error = Su dirección de correo electrónico debe tener al menos {{min_length}} letras.
+entry_email_address_check_error_number = Ha cometido un error en la fórmula de cálculo aplicada en la parte inferior del formulario. <br /> Haga las correcciones necesarias.
+entry_agreement_check_error = Debe aceptar nuestras condiciones de privacidad para finalizar su suscripción.
+entry_email_address_check_error_pro = Su dirección de correo electrónico no parece ser válida; realice las correcciones necesarias.
+
+entry_email_address_error_exists = Su dirección de correo electrónico y figura entre nuestros clientes - puede ingresar a su cuenta con esta dirección o crear una cuenta nueva con una dirección diferente.
+entry_email_address_error_exists_pro = Su dirección de correo electrónico ya existe en nuestros registros; inicie sesión con la dirección de correo electrónico o cree una cuenta con una dirección diferente.
+entry_email_address_confirmation_check_error = No capturó una dirección de correo electrónico idéntica en el momento de la confirmación.
+entry_email_address_confirmation_check_error_pro = No capturó una dirección de correo electrónico idéntica en el momento de la confirmación.
+entry_street_address_error = Su dirección debe contener un mínimo de {{min_length}} caracteres.
+entry_street_address_error_pro = Su dirección debe contener un mínimo de {{min_length}} caracteres.
+entry_suburb_error =
+entry_suburb_text =
+entry_post_code_error = Su código postal debe contener un mínimo de {{min_length}} caracteres.
+entry_post_code_error_pro = Su código postal debe contener un mínimo de {{min_length}} caracteres.
+entry_city_error = Su ciudad debe contener un mínimo de {{min_length}} caracteres.
+entry_city_error_pro = Su ciudad debe contener un mínimo de {{min_length}} caracteres.
+entry_state_error = Su estado debe contener un mínimo de {{min_length}} caracteres.
+entry_state_error_select = Seleccione un estado del menú desplegable de Estados.
+entry_state_error_pro = Su estado debe contener un mínimo de {{min_length}} caracteres.
+entry_state_error_select_pro = Seleccione un estado del menú desplegable de Estados.
+entry_state_error_not_existing = Vous debe seleccionar un estado existente
+
+entry_country_error = Debe seleccionar un país del menú desplegable Países.
+entry_country_error_pro = Debe seleccionar un país del menú desplegable Países.
+entry_telephone_number_error = Su número de teléfono debe contener un mínimo de {{min_length}} caracteres.
+entry_telephone_number_error_pro = Su número de teléfono debe contener un mínimo de {{min_length}} caracteres.
+entry_cellular_phone_number_error = Su número de teléfono celular debe contener un mínimo de {{min_length}} caracteres.
+entry_cellular_phone_number_error_pro = Su número de teléfono celular debe contener un mínimo de {{min_length}} caracteres.
+entry_phone_dgrp = Su número de teléfono es importante para contactarlo (pago, problema de envío ...)
+
+entry_fax_number_error =
+entry_fax_number_text =
+entry_newsletter_text =
+entry_newsletter_error =
+entry_password_error = Su contraseña debe tener al menos {{min_length}} carácteres.
+entry_password_error_not_matching = La confirmación de la contraseña debe ser igual a la contraseña.
+entry_password_error_pro = Su contraseña debe contener un mínimo de {{min_length}} caracteres.
+entry_password_error_not_matching_pro = La confirmación de contraseña debe coincidir con su contraseña.
+entry_password_confirmation_text = * Confirme su contraseña.
+entry_password_current_error = Su contraseña debe contener un mínimo de {{min_length}} caracteres.
+entry_password_new_error = Su nueva contraseña debe contener un mínimo de {{min_length}} caracteres.
+entry_password_new_error_not_matching = La confirmación de contraseña debe coincidir con su nueva contraseña.
+entry_password_new_error_pro = Su nueva contraseña debe contener un mínimo de {{min_length}} caracteres.
+entry_password_new_error_not_matching_pro = La confirmación de su contraseña debe coincidir con su nueva contraseña.
+
+entry_text_order_number = Orden N °
+entry_error_contact = Se ha detectado un error, vuelva a intentarlo.
+
+text_result_page =
+text_display_number_of_items = Viendo del <b>%d</b> al <b>%d</b> (de <b>%d</b> productos)
+text_display_number_of_reviews = Viendo del <b>%d</b> al <b>%d</b> (de <b>%d</b> comentarios)
+prevnext_title_first_page = Principio
+prevnext_title_previous_page = Anterior
+prevnext_title_next_page = Siguiente
+prevnext_title_last_page = Final
+prevnext_title_page_no = Página %d
+prevnext_title_prev_set_of_no_page = Anteriores %d Páginas
+prevnext_title_next_set_of_no_page = Siguientes %d Páginas
+prevnext_button_first = &lt;&lt;PRINCIPIO
+prevnext_button_prev = [&lt;&lt; Anterior]
+prevnext_button_next = [Siguiente &gt;&gt;]
+prevnext_button_last = FINAL&gt;&gt;
+image_button_pay_total_now = Pagar ahora ({{total}})
+image_button_pay_total_processing = Procesando, por favor espere ...
+
+product_added = {{products_name}} se ha agregado a su carrito
+product_updated = {{products_name}} se ha actualizado en su carrito
+product_removed = {{products_name}} se ha eliminado de su carrito
+
+text_ticker_products_new = Nuevo
+text_ticker_specials = Especial
+text_ticker_favorite = Favoritos
+text_ticker_featured = Seleccionado
+
+text_button_display_stock_good = En stock
+text_button_display_stock_alert = Pronto agotado
+text_button_display_stock_out = Producto agotado
+
+button_continue = Continuar
+
+text_greeting_personal = Bienvenido <span class = "greetUser"> {{first_name}} </span> Tenemos algunos <a href="{{url_products_new}}"> <u> los productos nuevos </u> </a> disponible ?
+text_greeting_guest = Bienvenido <abarcan clase = "greetUser"> Señora, Sr. </span>. Siéntase libre de <a href="{{url_login}}"> <u> inicie sesión </u> </a>? navegar por algunos de nuestros <a href="{{url_products_new}}"> <u> nuevos productos </u> </a>?
+text_select = --- Seleccionar ---
+
+text_sort_products = Ordenar productos
+text_descendingly = descendente
+text_ascendingly = ascendente
+text_by = por
+
+text_stock = Nivel de stock:
+
+text_shopping_cart_checkout_step1 = Carrito de compras
+text_shopping_cart_checkout_step2 = Método de envío o <br /> Cuenta
+text_shopping_cart_checkout_step3 = Método de pago
+text_shopping_cart_checkout_step4 = Resumen del pago del pedido
+text_shopping_cart_checkout_step5 = Procesando pago
+
+text_success_action = Su solicitud ha sido actualizada
+
+button_new_product = Nuevo producto
+button_add_address = Agregar dirección
+
+month = m
+days = d
+hours = H
+minutes = mn
+secondes = sec
+
+text_price_with_tax_tag = no gravar -
+text_unknown_tax_rate = Tasa de impuestos desconocida
+
+text_ccval_error_invalid_date = La fecha de caducidad ingresada para la tarjeta de crédito no es válida. <br /> Verifique la fecha e intente nuevamente.
+text_ccval_error_invalid_number = El número de tarjeta de crédito ingresado no es válido. <br /> Verifique el número e intente nuevamente.
+text_ccval_error_unknown_card = Los primeros cuatro dígitos del número ingresado son:% s <br /> Si ese número es correcto, no aceptamos ese tipo de tarjeta de crédito. <br /> Si está incorrecto, intente nuevamente.
+
+
+price_logged_in_text = Inicie sesión para ver los precios.
+price_logged_in_submit = Lo sentimos, debe iniciar sesión para ver los precios.
+price_logged_in_buy_text = Inicie sesión para comprar ahora
+tax_included = IVA inc.
+tax_excluded = TAX exc.
+
+no_orders_group = No hay productos disponibles
+no_orders_public =
+text_out_of_stock = Agotado
+
+text_antispam = tres
+
+entry_discount_coupon_error = El código de cupón que ha insertado no es válido.
+entry_discount_coupon_available_error = El código de cupón que ha introducido ya no es válido.
+entry_discount_coupon_use_error = Nuestros registros muestran que ha utilizado este cupón {{entry_discount_coupon_use_error}} veces. No puede usar este código más de {{entry_discount_coupon_max_use}} veces.
+entry_discount_coupon_min_price_error = El total mínimo de pedido para este cupón es {{discount_min_price_error}}
+
+module_order_total_discount_coupon_title = Cupón de descuento
+module_order_total_discount_coupon_tax_applied = Impuesto aplicado
+module_order_total_discount_coupon_display_file = Cupón de descuento [código] aplicado
+
+entry_discount_coupon_min_quantity_error = El número mínimo de productos necesarios para este cupón es {{discount_min_price_error}}
+entry_discount_coupon_exclusion_error = Algunos o todos los productos en su carrito están excluidos.
+
+
+table_heading_image =
+table_heading_date_added = Fecha
+
+table_heading_price = Precio
+table_heading_model = Modelo
+table_heading_quantity = Cantidad
+table_heading_weight = Peso
+table_heading_date = Fecha
+table_heading_manufacturer = Fabricante
+table_heading_products = Nombre Producto
+table_heading_buy_now = Comprar Ahora
+
+text_products_info_price_by_weight =
+text_login_error = Error de inicio de sesión, intente nuevamente
+
+
+email_text_subject = Proceso de pedido {{store_name}}
+email_text_order_number = Hola,
+Encuentre los elementos relacionados con su pedido en {{store_name}}.
+Le agradecemos su confianza y hacemos todo lo posible para tratar el envío de su pedido. <br /> <br /> Número de pedido:
+email_text_invoice_url = Factura detallada:
+email_text_date_ordered = Fecha de pedido:
+email_text_products = Productos
+email_text_subtotal = Subtotal:
+email_text_tax = Impuesto:
+email_text_shipping = Envío:
+email_text_total = Total:
+email_text_delivery_address = Dirección de entrega
+email_text_billing_address = Dirección de facturación
+email_text_payment_method = Método de pago
+
+email_separator =
+text_email_via = vía
+
+email_text_footer = Su pedido se está preparando y se lo enviaremos pronto. Imprima este correo electrónico certificando que debe tomar el pedido bien en {{store_name}} o para cualquier correspondencia posterior. <br /> <br /> Reciba, querido cliente, nuestros sinceros saludos. <br />
+saludos, <br /> <strong> {{store_name}} Equipo </strong> <br />
+<p> {{store_name_address}} <br />
+<u> <font size = "2"> Nota de confidencialidad: </font> </U> <font size = "2"> <br />
+Este mensaje, así como los documentos que se adjuntarían, están dirigidos exclusivamente a su destinatario y podrían contener información confidencial sujeta al secreto profesional o cuya divulgación está prohibida según los términos de la legislación vigente. Por lo tanto, informamos a la persona que lo recibiría sin ser el destinatario o una persona autorizada, que esta información es confidencial y que cualquier uso, copias, archivos o divulgación están prohibidos. Si recibió este mensaje, le pedimos que acepte comunicarnoslo por correo electrónico: {{store_owner_email_address}}. y proceder directamente a su destrucción <br />
+<p> <font size = "2"> De conformidad con la <strong> Ley </strong> no 78-17 del 6 de enero de 1978 conocida como Ley y Libertad de procesamiento de datos, tiene derecho a la corrección de sus datos personales o previa solicitud por correo electrónico </font> </div>
+
+
+email_text_subject_stock = Alerta de stock del producto en {{store_name}}
+email_reorder_level_text_stock = Hola, <br /> <br /> Recibió un correo electrónico de advertencia sobre su stock de advertencia (configuración general) para este producto. Este stock de advertencia es el stock alrt donde se alcanza uno o varios procesos. <br /> Existen las diferentes características del producto: <br />
+email_text_stock = Hola, <br /> <br /> Recibirá una advertencia sobre el stock agotado de uno de sus productos. Su producto no está disponible en su tienda. Sin embargo, puede reactivarlo sin modificar su stock. El botón Agregar será reemplazado por el siguiente botón agotado. <br /> Existen características de los productos que están agotados: <br />
+email_text_subject_alert_stock = Alerta de stock en producto específico en {{store_name}}
+email_reorder_level_text_alert_stock = Hola, <br /> <br /> Recibirá una advertencia sobre el stock de alerta (definido en el producto) con respecto a un producto. Su producto está disponible en su tienda. <br /> Existen características de los productos fuera de stock: <br />
+email_text_product_alert_stock = Stock en este producto:
+
+
+email_text_id_product = Identificación del producto
+email_text_model = Modelo
+email_text_products_name = Nombre del producto
+email_text_product_url = URL del producto
+email_text_product_stock = Stock de productos nuevos
+email_text_date_alert = Fecha de alerta
+
+text_install =
+<div style = "text-align: center; padding-top: 50px;"> <a href="https://www.clicshopping.org" target="_blank" rel="noreferrer"> <img src = " images / logo_clicshopping_1.png "border =" 0 "height =" 105 "width =" 284 "alt =" Market Place "> </a> <br />
+<div style = "padding-top: 120px;"> Felicitaciones, ha realizado con éxito el proceso de instalación, lea la información a continuación </div>
+<div style = "padding-top: 20px;"> Haga clic en el logotipo ClicShopping para conectarse con Market Place para comenzar y seleccione el módulo que desea instalar </div>
+<div> ClicShopping se basa en una arquitectura modular, para usar, debe instalar los módulos. Para obtener más información, vaya a MarketPlace </div>
+<div> <br /> - Más información sobre el módulo de instalación, haga clic en este enlace: <a href = "https://www.clicshopping.org/marketplace/mes-premiers-pas-bl-9.html" target = "_blank" rel = "noreferrer"> Mi primer paso </a> </div>
+<div> - Para descargar el Starter Pack: haga clic en: <a href="https://www.clicshopping.org/marketplace/sources/public/clicshopping/" target="_blank" rel="noreferrer"> Pack Starter </a> e instalar a través del sistema de instalación de ClicShopping y activar los módulos </div>
+<div> - Forme más información, visite nuestro: <a href="https://www.clicshopping.org/marketplace/index.php?Blog&Categories" target="_blank" rel="noreferrer"> blog < / a> </div>

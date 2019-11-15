@@ -1,0 +1,8 @@
+  modules_tell_a_friend_send_friend_title = ¿Desea mostrar el formulario amigo del cliente?
+  modules_tell_a_friend_send_friend_description = mostrar el formulario amigo del cliente
+
+  modules_tell_a_friend_title_friend_details = Detalles de tu amigo
+  modules_tell_a_friend_field_friend_name = Nombre de amigo
+  modules_tell_a_friend_field_friend_email = Correo electrónico amigo
+  modules_tell_a_friend_field_entry_email_address_text = *
+  modules_tell_a_friend_field_entry_first_name_text = *

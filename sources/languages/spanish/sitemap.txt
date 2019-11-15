@@ -1,0 +1,5 @@
+
+ navbar_title = Mapa del sitio
+ heading_title = Mapa del sitio
+
+

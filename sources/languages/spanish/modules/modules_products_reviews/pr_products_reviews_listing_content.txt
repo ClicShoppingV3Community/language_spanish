@@ -1,0 +1,6 @@
+modules_products_reviews_listing_content_title = Comentario del listado: ¿Le permite al cliente leer los comentarios?
+  modules_products_reviews_listing_content_description = Permitir al cliente leer los comentarios
+
+  modules_products_reviews_listing_content_comment = Comentarios de los custodios
+  modules_products_reviews_listing_content_text_result_page = Resultado
+  modules_products_reviews_listing_content_text_of_5_stars = star (s)

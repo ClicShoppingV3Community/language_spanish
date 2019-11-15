@@ -1,0 +1,4 @@
+
+ navbar_title = Comentarios
+ heading_title_review_info = Opinión de los clientes
+

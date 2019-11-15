@@ -1,0 +1,21 @@
+
+navbar_title_1 = Realizar Compra
+navbar_title_2 = Cambiar Dirección de Entrega
+
+heading_title = Datos del Envío
+
+table_heading_shipping_address = Dirección de Entrega
+text_selected_shipping_destination = Esta es la dirección de entrega seleccionada para el envío de los productos de su pedido.
+title_shipping_address = Dirección de Entrega:
+
+table_heading_address_book_entries = Libreta de Direcciones
+text_select_other_shipping_destination = Seleccione otra dirección de entrega para su pedido si quiere que sea entregado en un sitio diferente.
+title_please_select = Seleccione
+
+table_heading_new_shipping_address = Nueva Dirección
+text_create_new_shipping_address = Use el formulario siguiente para crear una dirección nueva en su libreta y usarla como dirección de entrega para su pedido.
+
+table_heading_new_shipping_address_problem = Error en la nueva dirección de envío
+
+title_continue_checkout_procedure = Continuar con el Proceso de Compra
+text_continue_checkout_procedure = para seleccionar la forma de envio.

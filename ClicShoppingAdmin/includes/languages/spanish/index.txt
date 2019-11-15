@@ -1,0 +1,89 @@
+
+heading_title = Inicio
+heading_short_orders = Atajo de pedidos
+heading_short_products = Acceso directo a productos
+heading_short_categories = Atajo de categorías
+heading_short_customers = Acceso directo del cliente
+heading_short_support = Acceso directo de soporte
+
+heading_title_orders = Pedidos
+heading_title_divers = Misceláneo
+
+box_title_orders = Pedidos
+box_title_statistics = Estadísticas
+box_entry_stock_expecting = Número esperado de productos
+box_entry_customer_basket = Recuperar el número de venta del carrito
+box_entry_contact_demand_no_archive = Solicitudes de contacto para analizar
+box_entry_products_no_purchase = Productos no vendidos / productos vendidos
+
+text_number_products_stock_warning = Advertencia de stock de productos
+text_number_products_out_of_stock = Productos sin stock
+text_number_products_expected = Productos esperados
+text_number_members_b2b = Cliente para aprobar
+text_number_of_reviews = Revisiones pendientes
+text_number_support = Solicitud de soporte de pedidos
+text_view = Más información
+
+catalog_contents = Contenido
+reports_products = Productos
+reports_orders = Pedidos
+title_twitter = Tweet ClicShopping
+
+title_db_index = Tamaño de la base de datos
+title_web_site_size = Taille du site internet
+title_system_memory = Memoria del sistema (obtener uso)
+title_core_memory = Uso de la memoria principal de Bootstrap
+title_customer_information = Información sobre el cliente completo
+title_index_order = Situación del pedido
+
+tab_twitter = Tweets de ClicShopping
+tab_statisitics = Estadísticas
+tab_customer = Cuenta y servidor
+
+pack = paquete:
+contract_date = Fecha de cumpleaños:
+email_size = Tamaño del buzón:
+email_size_info = 20 Mo
+contract_renewal = Renovación del contrato:
+contract_renewal_info = Aniversario de renovación automática
+notice_termination = Aviso de terminación:
+notice_termination_info = 2 meses antes de la fecha límite
+space = espacio de almacenamiento total:
+backup_site = sitio de respaldo:
+backup_site_info = Diario
+ask_informations = Solicitar información:
+bandwidth = ancho de banda por mes
+
+onglet_stat_generales = Estadísticas generales
+onglet_stat_ca = Voltear
+onglet_mon_compte = Mi cuenta
+onglet_commerce = Información RSS
+onglet_options = Opciones
+
+title_stat_ca_evolution = Volumen de negocios acumulado por mes (estado de entrega)
+title_stats_growth_ca = Crecimiento de su rotación
+title_stats_average_sales = Crecimiento promedio anual de su cesta
+status = estado total de pedidos
+statistics = estadísticas principales
+
+year_n0 = Año n
+year_n1 = Año n-1
+year_n2 = Año n-2
+year_n3 = Año n-3
+
+icon_edit_order = Editar orden
+icon_edit_customer = Editar cliente
+icon_view_customers_all_orders = Ver todos los pedidos de los clientes
+icon_view_order = Ver el pedido del cliente
+
+
+text_error_twitter = Error, inserte un mensaje. <br />
+text_subscription_twitter = Obtenga una suscripción en <a href="https://www.twitter.com" target="_blank" rel="noreferrer"> Twitter </a> para beneficiar el poder de la web social para su desarrollo de marketing. < br /> Después de configurar ClicShopping (Configuración / mi administración / Configuración social web) para usar Twitter.
+
+linkedin_certificate_clicshopping = ¡Obtenga su certificación ClicShopping!
+
+text_install_dashboard = Haga clic aquí para instalar los módulos del tablero (primero aprender a conocer las herramientas)
+text_install_upgrade = Haga clic aquí para instalar una nueva extensión
+text_good_luck = Le deseamos un buen negocio con ClicShopping. El equipo
+text_follow_us = Síguenos en:
+text_donate = ¡Haga clic aquí para ayudarnos a continuar con una donación!

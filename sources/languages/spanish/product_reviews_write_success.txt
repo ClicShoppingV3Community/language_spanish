@@ -1,0 +1,8 @@
+navbar_title = Comentarios
+navbar_title_1 = Éxito
+
+heading_title_reviews_success = Comentarios enviados
+
+text_product_reviews_write_success = Su comentario ha sido enviado y será revisado. <br /> Tenemos una política sobre la revisión y puede consultar estos elementos en nuestra condición general. <br />
+gracias. <br /> <br /> {{store_owner}}
+

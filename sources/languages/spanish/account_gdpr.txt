@@ -1,0 +1,5 @@
+navbar_title_1 = Cuenta
+navbar_title_2 = Gdpr
+
+text_success_gdpr = Éxito, su acción se ha realizado
+text_error_delete = Se ha detectado un error, vuelva a intentarlo o contáctenos.

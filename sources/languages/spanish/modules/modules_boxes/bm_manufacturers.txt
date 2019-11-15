@@ -1,0 +1,5 @@
+module_boxes_manufacturers_title = Fabricantes
+module_boxes_manufacturers_description = Mostrar una lista de los fabricantes
+module_boxes_manufacturers_title = Fabricantes
+module_boxes_manufacturers_description = Show brand information on the product information page
+pull_down_default = Please Select

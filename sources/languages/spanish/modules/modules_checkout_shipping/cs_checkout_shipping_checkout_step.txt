@@ -1,0 +1,2 @@
+module_checkout_shipping_step_title = ¿Desea mostrar el paso sobre el proceso de pedido?
+module_checkout_shipping_step_description = mostrar el paso sobre el proceso de pedido?

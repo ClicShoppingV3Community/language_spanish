@@ -1,0 +1,2 @@
+module_action_recorder_tell_a_friend_title = Enviar a un amigo
+module_action_recorder_tell_a_friend_description = Registro del uso de la función Enviar a un amigo.

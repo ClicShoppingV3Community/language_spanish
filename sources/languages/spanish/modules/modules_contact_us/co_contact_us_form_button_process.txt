@@ -1,0 +1,5 @@
+
+modules_contact_us_form_button_process_title = ¿Desea mostrar el botón de proceso dentro del formulario de contacto?
+ modules_contact_us_form_button_process_description = Mostrar el botón de proceso dentro del formulario de contacto (importante para dejar en verdadero)
+
+ button_continue = Continuar

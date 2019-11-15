@@ -1,0 +1,5 @@
+module_checkout_success_product_notifications_title = Notificaciones de productos
+module_checkout_success_product_notifications_description = Agregar notificación de producto a la página de pago exitoso
+module_checkout_success_product_notifications_text_notify_products = <strong> Notifíqueme las actualizaciones de los productos que he seleccionado a continuación </strong>
+
+button_update = Actualizar

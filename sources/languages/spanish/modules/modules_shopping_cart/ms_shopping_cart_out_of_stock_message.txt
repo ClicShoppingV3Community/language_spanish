@@ -1,0 +1,5 @@
+ module_shopping_cart_out_of_stock_message_title = ¿Desea mostrar un mensaje cuando el producto no está disponible?
+  module_shopping_cart_out_of_stock_message_description = Mostrar un mensaje cuando el producto no está disponible
+
+  module_shopping_cart_out_of_stock_cant_checkout = Los productos marcados con {{out_of_stock}} no existen en la cantidad deseada en nuestro stock. <br /> Modifique la cantidad de productos marcados con ({{out_of_stock}}).
+  module_shopping_cart_out_of_stock_can_checkout = Los productos marcados con {{out_of_stock}} no existen en la cantidad deseada en nuestro stock. <br /> Puede comprarlos de todos modos y verificar la cantidad que tenemos en stock para entrega inmediata en el proceso de pago.

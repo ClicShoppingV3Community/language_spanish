@@ -1,0 +1,7 @@
+module_login_mode_b2b = ¿Desea mostrar los botones B2B para suscripciones de clientes?
+module_login_mode_b2b_description = Mostrar los botones B2B para las suscripciones de los clientes <br /> Nota: por lo general, este modo está relacionado con la configuración general: Gestión de clientes B2B / configuración
+
+heading_title_b2b = Suscríbete y abre una cuenta
+
+text_intro_b2b =
+button_retailers = Minoristas / Profesionales

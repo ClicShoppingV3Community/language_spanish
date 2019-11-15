@@ -1,0 +1,3 @@
+module_header_noscript_title = ¿Desea usar noscript?
+module_header_noscript_description = Mostrar un mensaje No Script para el navegador no utiliza este script.
+module_header_noscript_text = <strong> Parece que JavaScript no se activa en su navegador o en un bloque de anuncios. </strong> <br /> Cambie su configuración para usar este sitio web. <br /> <a href = "www.enable-javascript.com/ "target ="_blank" "rel ="nofollow"> Para obtener más información, haga clic aquí </a>.

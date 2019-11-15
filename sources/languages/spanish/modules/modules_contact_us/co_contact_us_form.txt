@@ -1,0 +1,28 @@
+modules_contact_us_form_title = ¿Desea habilitar los campos de contacto en el formulario de contacto?
+modules_contact_us_form_description = agregar los campos de contacto en el formulario de contacto
+
+text_administrator_department = Ningún departamento definido
+
+entry_customers_id = Su número de cliente:
+entry_order = Su número de pedido:
+entry_date = Fecha:
+entry_customers_phone = Teléfono:
+
+entry_need_customers = ¿Indicar el servicio a contactar?
+entry_customer = Cliente de la pregunta:
+
+entry_note_registered = Díganos el modelo del producto o cualquier información relevante sobre el problema en el pedido que ha realizado o su necesidad <br /> <br />
+entry_note_no_registered = Si solicita un pedido ya realizado, haga clic en: <a href="index.php?Account&Main"> Mi cuenta </a> y luego elija su número de pedido <br /> <br />
+
+entry_name = Nombre completo:
+entry_email = Dirección de correo electrónico:
+entry_enquiry = Consulta:
+entry_enquiry_customer = Su mensaje:
+entry_enquiry_customer_information = Mensaje del cliente:
+entry_email_object_customer = Solicitar copia
+entry_customers_subject = Asunto de su solicitud:
+
+send_department_company = Contacto al departamento:
+
+entry_customers_phone_dgrp = Necesitamos su número de teléfono para eventualmente contactarlo
+entry_email_dgrp = Necesitamos su correo electrónico para responderle

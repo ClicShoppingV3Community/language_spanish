@@ -1,0 +1,5 @@
+module_boxes_shopping_cart_title = Cesta de compra
+module_boxes_shopping_cart_description = Mostrar contenido de la cesta de compra
+module_boxes_shopping_cart_box_title = Cesta de compra
+header_title_cart_contents = My cart
+module_boxes_shopping_cart_box_cart_empty = 0 productos

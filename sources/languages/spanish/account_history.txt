@@ -1,0 +1,5 @@
+
+navbar_title_1 = Mi Cuenta
+navbar_title_2 = Pedidos
+
+heading_title = Todos Mis Pedidos

@@ -1,0 +1,4 @@
+module_account_customers_history_info_invoice_pdf_title = Información del historial: ¿Desea permitir descargar la factura en pdf?
+module_account_customers_history_info_invoice_pdf_description = Permitir descargar la factura en pdf
+
+module_account_customers_history_info_invoice_pdf_text = Factura
