@@ -1,0 +1,28 @@
+{
+  "title":			"language spanish",
+  "type":            "template",
+  "vendor":			"language_spanish",
+  "is_free":   "yes",
+  "is_core":    "no",
+  "website_link_to_sell" : "",
+  "version":			"1.0.0",
+  "req_core_version":	"3.2111",
+  "license":			"GPL 2 - MIT",
+  "tag":			    "language, catalog, administration",
+  "install":            "shop/",
+  "module_directory":   "template",
+  "apps_name":          "",
+  "type_module":      "template",
+  "dependance":       "",
+  "description":        "This modules allow you to include a new language inside ClicShopping",
+  "image":            "",
+  "authors": [
+    {
+      "name":		    "ClicShopping Team",
+      "company":	    "Innov-concept",
+      "email":	      "",
+      "website":	    "http://www.clicshopping.org",
+      "Community":	  "http://www.clicshopping.org"
+    }
+  ]
+}
