@@ -28,7 +28,7 @@ email_text_subject_stock = Alerta de stock del producto en {{store_name}}
 email_reorder_level_text_stock = Hola, '. "\n\n". 'Recibió un correo electrónico de advertencia sobre su stock de advertencia (configuración general) para este producto. Este stock de advertencia es el stock alrt donde se alcanza uno o varios procesos. '. "\n". 'Existen las diferentes características del producto:'. "\n". '
 email_text_stock = Hola, '. "\n\n". 'Recibirá una advertencia sobre el stock agotado de uno de sus productos. Su producto no está disponible en su tienda. Sin embargo, puede reactivarlo sin modificar su stock. El botón Agregar será reemplazado por el siguiente botón agotado. '. "\n". 'Hay características de los productos fuera de stock:'. "\n". '
 email_text_subject_alert_stock = Alerta de stock en producto específico en {{store_name}}
-email_reorder_level_text_alert_stock = Hola, '. "\n\n". 'Recibirá una advertencia sobre el stock de alerta (definido en el producto) con respecto a un producto. Su producto está disponible en su tienda. '. "\ n". 'Hay características de los productos fuera de stock:'. "\n". '
+email_reorder_level_text_alert_stock = Hola, '. "\n\n". 'Recibirá una advertencia sobre el stock de alerta (definido en el producto) con respecto a un producto. Su producto está disponible en su tienda. '. "\n". 'Hay características de los productos fuera de stock:'. "\n". '
 email_text_product_alert_stock = Stock en este producto:
 
 

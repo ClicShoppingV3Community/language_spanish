@@ -23,10 +23,10 @@ products_group_quantity_unit_title = FRS-
 
 error_conditions_not_accepted = Confirme los términos y condiciones vinculados a este pedido marcando la casilla a continuación.
 
-js_error = ¡Hay errores en su formulario! \ n \ nPor favor, haga las siguientes correcciones: \ n \ n
-js_review_text = * Su Comentario debe tener al menos {{min_length}} letras. \ n
-js_review_rating = * Debe evaluar el producto sobre el que opina. \ n
-js_error_no_payment_module_selected = * Por favor, seleccione un método de pago para su pedido. \ n
+js_error = ¡Hay errores en su formulario! \n \nPor favor, haga las siguientes correcciones: \n \n
+js_review_text = * Su Comentario debe tener al menos {{min_length}} letras. \n
+js_review_rating = * Debe evaluar el producto sobre el que opina. \n
+js_error_no_payment_module_selected = * Por favor, seleccione un método de pago para su pedido. \n
 js_error_submitted = Este formulario ya ha sido enviado. Presione Ok y espere a que se complete este proceso.
 
 error_no_payment_module_selected = Por favor, seleccione un método de pago para su pedido.
