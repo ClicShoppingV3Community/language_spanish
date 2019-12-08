@@ -420,7 +420,7 @@ select_datas = --- Seleccionar ---
 text_select = --- Seleccionar ---
 text_all_orders = Todo el estado
 
-no_script_text = <strong> JavaScript parece estar deshabilitado en su navegador o ha sido desactivado por un bloque de complemento. </strong> <br /> Debe tener habilitado JavaScript en su navegador para utilizar la funcionalidad de este sitio web. <a href="https://www.enable-javascript.com/" target="_blank" rel="nofollow"> Haga clic aquí para obtener instrucciones sobre cómo habilitar JavaScript en su navegador </a>.
+no_script_text = <strong> JavaScript parece estar deshabilitado en su navegador o ha sido desactivado por un bloque de complemento. </strong> <br /> Debe tener habilitado JavaScript en su navegador para utilizar la funcionalidad de este sitio web. <a href="https://www.enable-javascript.com/" target="_blank" rel="nofollow noreferrer"> Haga clic aquí para obtener instrucciones sobre cómo habilitar JavaScript en su navegador </a>.
 
 title_help_general = Ayuda
 
