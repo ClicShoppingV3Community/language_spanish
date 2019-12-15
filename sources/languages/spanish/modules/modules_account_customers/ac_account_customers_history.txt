@@ -17,5 +17,3 @@ module_account_customers_history_text_no_purchases = Todavía no ha realizado ni
 
 button_view = Ver
 button_back = Atrás
-
-s
