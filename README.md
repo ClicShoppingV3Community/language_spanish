@@ -22,7 +22,7 @@ Recommendation and documentation specific use :
 
 Implementation:
 
-- Copy the All Diretories inside Shop except ModuleInfosJson
+- Copy the All Directories inside Shop except ModuleInfosJson
 - Copy the language_spanish.json into ClicShopping/Work/Cache/Github (manual installation)
 - In your administration : Configuration / other / language
   - create a new language
