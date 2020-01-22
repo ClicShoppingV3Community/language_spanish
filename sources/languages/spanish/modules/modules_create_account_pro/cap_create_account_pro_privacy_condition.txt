@@ -1,5 +1,5 @@
 module_create_account_pro_privacy_condition_title = ¿Desea habilitar la condición de privacidad?
 module_create_account_pro_privacy_condition_description = Agregue la información sobre la condición de privacidad
 
-text_privacy_conditions_description = La declaración de privacidad está disponible siempre en {{store_name}} y se puede leer <a href="{{privacy_url}}" target="_blank" rel="noreferrer"> <u> aquí </u> </ a>.
+text_privacy_conditions_description = La declaración de privacidad está disponible siempre en {{store_name}} y se puede leer <a href="{{privacy_url}}" target="_blank" rel="noopener"> <u> aquí </u> </ a>.
 text_privacy_conditions_agree = Marque esta casilla para dar su consentimiento con respecto a nuestra política de privacidad

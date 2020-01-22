@@ -290,10 +290,10 @@ email_text_product_stock = Stock de productos nuevos
 email_text_date_alert = Fecha de alerta
 
 text_install =
-<div style = "text-align: center; padding-top: 50px;"> <a href="https://www.clicshopping.org" target="_blank" rel="noreferrer"> <img src = " images / logo_clicshopping_1.png "border =" 0 "height =" 105 "width =" 284 "alt =" Market Place "> </a> <br />
+<div style = "text-align: center; padding-top: 50px;"> <a href="https://www.clicshopping.org" target="_blank" rel="noopener"> <img src = " images / logo_clicshopping_1.png "border =" 0 "height =" 105 "width =" 284 "alt =" Market Place "> </a> <br />
 <div style = "padding-top: 120px;"> Felicitaciones, ha realizado con éxito el proceso de instalación, lea la información a continuación </div>
 <div style = "padding-top: 20px;"> Haga clic en el logotipo ClicShopping para conectarse con Market Place para comenzar y seleccione el módulo que desea instalar </div>
 <div> ClicShopping se basa en una arquitectura modular, para usar, debe instalar los módulos. Para obtener más información, vaya a MarketPlace </div>
 <div> <br /> - Más información sobre el módulo de instalación, haga clic en este enlace: <a href = "https://www.clicshopping.org/marketplace/mes-premiers-pas-bl-9.html" target = "_blank" rel = "noreferrer"> Mi primer paso </a> </div>
-<div> - Para descargar el Starter Pack: haga clic en: <a href="https://www.clicshopping.org/marketplace/sources/public/clicshopping/" target="_blank" rel="noreferrer"> Pack Starter </a> e instalar a través del sistema de instalación de ClicShopping y activar los módulos </div>
-<div> - Forme más información, visite nuestro: <a href="https://www.clicshopping.org/marketplace/index.php?Blog&Categories" target="_blank" rel="noreferrer"> blog < / a> </div>
+<div> - Para descargar el Starter Pack: haga clic en: <a href="https://www.clicshopping.org/marketplace/sources/public/clicshopping/" target="_blank" rel="noopener"> Pack Starter </a> e instalar a través del sistema de instalación de ClicShopping y activar los módulos </div>
+<div> - Forme más información, visite nuestro: <a href="https://www.clicshopping.org/marketplace/index.php?Blog&Categories" target="_blank" rel="noopener"> blog < / a> </div>

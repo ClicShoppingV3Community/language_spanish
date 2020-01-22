@@ -1,2 +1,2 @@
 module_security_check_extended_admin_backup_directory_listing_title = ClicShoppingAdmin / incluye / backups / Listado de directorios
-module_security_check_extended_admin_backup_directory_listing_http_200 = El directorio <a href="{{backups_url}}" target="_blank" rel="noreferrer"> {{backups_path}} </a> es de acceso público y / o navegable, por favor deshabilite la lista de directorios para este directorio en la configuración de su servidor web.
+module_security_check_extended_admin_backup_directory_listing_http_200 = El directorio <a href="{{backups_url}}" target="_blank" rel="noopener"> {{backups_path}} </a> es de acceso público y / o navegable, por favor deshabilite la lista de directorios para este directorio en la configuración de su servidor web.

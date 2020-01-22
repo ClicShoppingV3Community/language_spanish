@@ -3,6 +3,6 @@ module_checkout_payment_agreement_title = ¿Desea mostrar una casilla de verific
 module_checkout_payment_agreement_description = Mostrar una casilla de verificación para aceptar el término y la condición
 
 module_checkout_payment_agreement_table_heading_conditions = Términos y condiciones
-module_checkout_payment_agreement_text_conditions_confirm = Reconozca los términos y condiciones vinculados a este pedido marcando la casilla siguiente. Los términos y condiciones se pueden leer <a href="{{shop_code_url_conditions_vente}}" target="_blank" rel="noreferrer"> <u> aquí </u> </a>.
+module_checkout_payment_agreement_text_conditions_confirm = Reconozca los términos y condiciones vinculados a este pedido marcando la casilla siguiente. Los términos y condiciones se pueden leer <a href="{{shop_code_url_conditions_vente}}" target="_blank" rel="noopener"> <u> aquí </u> </a>.
 
 module_checkout_payment_agreement_text_conditions_description = <strong> He leído y acepto los términos y condiciones vinculados a este pedido </strong>.

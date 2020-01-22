@@ -1,2 +1,2 @@
 module_security_check_extended_ext_directory_listing_title = ext / Listado de directorios
-module_security_check_extended_ext_directory_listing_http_200 = El directorio <a href="{{ext_url}}" target="_blank" rel="noreferrer"> {{ext_path}} </a> es de acceso público y / o navegable - desactive la lista de directorios para este directorio en la configuración de su servidor web.
+module_security_check_extended_ext_directory_listing_http_200 = El directorio <a href="{{ext_url}}" target="_blank" rel="noopener"> {{ext_path}} </a> es de acceso público y / o navegable - desactive la lista de directorios para este directorio en la configuración de su servidor web.
