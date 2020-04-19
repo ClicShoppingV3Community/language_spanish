@@ -405,8 +405,6 @@ price_total = Precio total
 product_quantity = cantidad del producto
 
 keywords_google_trend = Palabras clave tendencia de Google
-analysis_google_tool = Herramienta de análisis de Google
-
 success_status_updated = Actualización correcta
 error_unknown_status_flag = Error desconocido
 error_no_access = Sin acceso autorizado
