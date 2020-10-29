@@ -46,7 +46,7 @@ box_customers_orders = Pedidos
 box_taxes_countries = Países
 box_taxes_geo_zones = Zonas fiscales
 box_localization_currencias = Monedas
-box_localization_languages ​​= Idiomas
+box_localization_languages = Idiomas
 box_newsletter = Newsletter
 box_heading_help = Soporte
 
