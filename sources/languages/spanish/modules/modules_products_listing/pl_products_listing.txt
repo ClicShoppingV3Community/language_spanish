@@ -41,6 +41,6 @@ table_heading_date = Fecha
 
 button_details = Detalles
 button_buy_now = Comprar
-button_exhausted = Agotado
+button_sold_out = Agotado
 
 template_does_not_exist = La plantilla no existe, verifique su plantilla

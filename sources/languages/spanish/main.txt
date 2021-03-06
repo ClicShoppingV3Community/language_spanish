@@ -12,7 +12,7 @@ html_lang = en
 title = {{store_name}}
 access_catalog = Acceso a la tienda {{store_name}}
 
-header_title_top = <i class = "fas fa-home"> </i> <span class = "sr-only"> Inicio </span>
+header_title_top = <i class = "fas fa-home"> </i> <span class = "visually-hidden"> Inicio </span>
 header_title_catalog = Catálogo
 
 text_selected = Seleccionar
